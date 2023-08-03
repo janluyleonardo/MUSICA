@@ -1,8 +1,8 @@
-## MUSICA GENERAL
-# Directorio de E:\MUSICA-GENERAL
+##  MUSICA GENERAL
+##  Directorio de E:\MUSICA-GENERAL
 
 ME-PROVOCAS-1H.mp3
-# Directorio de E:\MUSICA-GENERAL\01-FECHAS ESPECIALES
+## Directorio de E:\MUSICA-GENERAL\01-FECHAS ESPECIALES
 
 CUMPLEA¥OS FELIZ.mp3
 DE NI¥A A MUJER- JULIO JARAMILLO.mp3
@@ -21,7 +21,7 @@ TIEMPO DE VALLS.mp3
 TU CUMPLEA¥OS.mp3
 VALLS - DANUBIO AZUL.mp3
 
-# Directorio de E:\MUSICA-GENERAL\02-BACHATA
+## Directorio de E:\MUSICA-GENERAL\02-BACHATA
 
 ABUELITA.mp3                    AMANTES.mp3
 AMOR DE FICCION.mp3             AMOR DE MADRE.mp3
@@ -61,7 +61,7 @@ TE INVITO A HACER EL AMOR.mp3   TODAVIA ME AMAS.mp3
 TU JUEGUITO.mp3                 TU SIN MI, YO SIN TI.mp3
 VALE LA PENA EL PLACER.mp3      YO QUISIERA AMARLA.mp3
 
-# Directorio de E:\MUSICA-GENERAL\03-BOHEMIA
+## Directorio de E:\MUSICA-GENERAL\03-BOHEMIA
 
 ADORACION.mp3
 AMOR GITANO.mp3
@@ -121,20 +121,20 @@ TU DUDA Y LA MIA.mp3
 UN DISCO MAS - JULIO  JARAMILLO.mp3
 YO NO SE QUE HAN HECHO TUS OJOS.mp3
 
-# Directorio de E:\MUSICA-GENERAL\03-BOHEMIA\BALADA HABLADA POEMAS
+## Directorio de E:\MUSICA-GENERAL\03-BOHEMIA\BALADA HABLADA POEMAS
 
 DESIDERATA.mp3             ES CUESTION DE PIEL.mp3
 NAILA.mp3                  PATRICK AMOR MIO.mp3
 PROMETIMOS NO LLORAR.mp3   TE HE QUERIDO TANTO.mp3
 
-# Directorio de E:\MUSICA-GENERAL\03-BOHEMIA\BALADAS CONTEMPORANEAS
+## Directorio de E:\MUSICA-GENERAL\03-BOHEMIA\BALADAS CONTEMPORANEAS
 
 COMO DECIRTE CUANTO TE AMO.mp3    CORAZON PARTIO.mp3
 CUANDO SE ACABA EL PLACER.mp3     MI HISTORIA ENTRE TUS DEDOS.mp3
 TABACO Y CHANEL.mp3               TRATAR DE ESTAR MEJOR.mp3
 USTED NO SABE.mp3                 
 
-# Directorio de E:\MUSICA-GENERAL\03-BOHEMIA\BALADAS DE LOS 60
+## Directorio de E:\MUSICA-GENERAL\03-BOHEMIA\BALADAS DE LOS 60
 
 DEJA DE LLORAR.mp3           LA CINTA ROSA.mp3
 LAS PUERTAS DEL OLVIDO.mp3   MELINA.mp3
@@ -142,7 +142,7 @@ MENTIRIA.mp3                 PORQUE TE VAS.mp3
 TE QUIERO TE AMO.mp3         VETE CON EL.mp3
 VOLVERE.mp3                  
 
-# Directorio de E:\MUSICA-GENERAL\03-BOHEMIA\BALADAS DE LOS 60\BALADAS AMERICANAS
+## Directorio de E:\MUSICA-GENERAL\03-BOHEMIA\BALADAS DE LOS 60\BALADAS AMERICANAS
 
 ANGIE - The Rolling Stones.mp3
 BECAUSE I LOVE YOU - Steve.mp3
@@ -153,20 +153,20 @@ TOTAL ECLIPSE OF THE EARTH - Bonnie Tiler.mp3
 UNCHANGED MELODY - The Righteous Brothers.mp3
 YESTERDAY - The Beatles.mp3
 
-# Directorio de E:\MUSICA-GENERAL\03-BOHEMIA\BALADAS POP
+## Directorio de E:\MUSICA-GENERAL\03-BOHEMIA\BALADAS POP
 
 DE VENUS.mp3                 ELLA ES MI FIESTA.mp3
 ENTRE TU Y MIL MARES.mp3     ESTAR CONTIGO.mp3
 JUNTOS.mp3                   MI VERDAD.mp3
 QUERIDA.mp3                  UNA HISTORIA DIFERENTE.mp3
 
-# Directorio de E:\MUSICA-GENERAL\03-BOHEMIA\BOLEROS
+## Directorio de E:\MUSICA-GENERAL\03-BOHEMIA\BOLEROS
 
 BUSCO TU RECUERDO.mp3   COPAS Y AMIGOS.MP3      HOLA SOLEDAD.mp3
 NEGRURA.mp3             POR DOS CAMINOS.mp3     POR QUE AHORA.mp3
 SEPARACION.mp3          TU SABES.mp3            
 
-# Directorio de E:\MUSICA-GENERAL\03-BOHEMIA\ROMANTICA
+## Directorio de E:\MUSICA-GENERAL\03-BOHEMIA\ROMANTICA
 
 AMOR DE ESTUDIANTE .mp3              CORAZON MAGICO .mp3
 DARIA CUALQUIER COSA.mp3             EL AMOR DE MI VIDA.mp3
@@ -183,7 +183,7 @@ VUELVO A VIVIR VUELVO A CANTAR.mp3
 
 @janluyleonardo
 
-# Directorio de E:\MUSICA-GENERAL\03-BOHEMIA\TANGOS
+## Directorio de E:\MUSICA-GENERAL\03-BOHEMIA\TANGOS
 
 001-Sangre maleva - ALFREDO ANGELIS.mp3
 002-Agustin Irustra - Polvo de los caminos.mp3
@@ -195,7 +195,7 @@ VUELVO A VIVIR VUELVO A CANTAR.mp3
 008-Alfredo de Angelis - Obsesion.mp3
 009-pibe Campos - Tu recuerdo me persigue.mp3
 
-# Directorio de E:\MUSICA-GENERAL\04-CARRANGA
+## Directorio de E:\MUSICA-GENERAL\04-CARRANGA
 
 A GOZAR LA RUMBA   Los DOTORES de la carranga.mp3
 A QUIEN LE IMPORTA . Los Dotores de la Carranga.mp3
@@ -219,7 +219,7 @@ SUFRO SIN TI     los dotores de la carranga.mp3
 Video Musical   La Estrato 8 - Los Dotores de la Carranga.mp3
 VIVO DE MILAGRO - LOS DOTORES DE LA CARRANGA.mp3
 
-# Directorio de E:\MUSICA-GENERAL\05-CLASICOS DEL ROCK
+## Directorio de E:\MUSICA-GENERAL\05-CLASICOS DEL ROCK
 
 001-Boney M - Rasputin.mp3
 003-Barrabas - On the road again.mp3
@@ -228,14 +228,14 @@ VIVO DE MILAGRO - LOS DOTORES DE LA CARRANGA.mp3
 006-Fine Young Cannibals - She Drives Me Crazy.mp3
 007-Counting Crows - Mr. Jones.mp3
 
-# Directorio de E:\MUSICA-GENERAL\06-DANCE TRANCE
+## Directorio de E:\MUSICA-GENERAL\06-DANCE TRANCE
 
 DJ Bobo - EveryBody.mp3              Eurythmics - Sweet dreams.mp3
 HOW DO YOU DO.MP3                    LOVE FOR LOVE.mp3
 Sabrina - Boys.mp3                   Snap - Rythming is a dancer.mp3
 Technotronic - Move This.mp3         Technotronic - Pump Up The Jam.mp3
 
-# Directorio de E:\MUSICA-GENERAL\07-ELECTRONICA
+## Directorio de E:\MUSICA-GENERAL\07-ELECTRONICA
 
 ALETEO ZAPATEO.mp3
 ANIMALS.mp3
@@ -265,7 +265,7 @@ SHAPE OF YOU.mp3
 TREMOR.mp3
 TSUNAMI.mp3
 
-# Directorio de E:\MUSICA-GENERAL\08-GUARACHA
+## Directorio de E:\MUSICA-GENERAL\08-GUARACHA
 
 ALETEO ZAPATEO.mp3
 BAILA CON MIGO.mp3
@@ -286,7 +286,7 @@ Tµ TRANCADA.mp3
 VALLENATO PARRANDERO.mp3
 Viciosa - Valeria Vix  (Dj Berkin Remix) (Extended Version) old School 90s Classic House   ?--(MP3_160K).mp3
 
-# Directorio de E:\MUSICA-GENERAL\09-HIPHOP
+## Directorio de E:\MUSICA-GENERAL\09-HIPHOP
 
 01 Candy Shop.mp3
 01 Disco Inferno.mp3
@@ -307,7 +307,7 @@ VASOS VACIOS.mp3
 ANGELES Y DEMONIOS.wma
 ORPHANIZATION.wma
 
-# Directorio de E:\MUSICA-GENERAL\10-HORA LOCA
+## Directorio de E:\MUSICA-GENERAL\10-HORA LOCA
 
 AY CHAVELA.mp3
 COTTON EYE JOE.mp3
@@ -322,7 +322,7 @@ REGGETON MIX - CLASICO.mp3
 REGGETON MIX.mp3
 YO TE QUIERO DAR.mp3
 
-# Directorio de E:\MUSICA-GENERAL\11-INSTRUMENTAL
+## Directorio de E:\MUSICA-GENERAL\11-INSTRUMENTAL
 
 001-Richard Clayderman - Love Story.mp3
 002-Alfredo Rolando Ortiz - Pajaro campana.mp3
@@ -332,7 +332,7 @@ YO TE QUIERO DAR.mp3
 008-Richard Clayderman - Ballade Pour Adeline.mp3
 009-LOS SONIDOS DEL SILENCIO,EL GRAN FANTASTIC.mp3
 
-# Directorio de E:\MUSICA-GENERAL\12-MERENGUE
+## Directorio de E:\MUSICA-GENERAL\12-MERENGUE
 
 A DORMIR JUNTITOS.mp3
 ABUSADORA.mp3
@@ -425,7 +425,7 @@ UNA TARDE FUE.mp3
 WOMAN DEL CALLAO.mp3
 ZA ZA ZA.mp3
 
-# Directorio de E:\MUSICA-GENERAL\13-REGGUETON
+## Directorio de E:\MUSICA-GENERAL\13-REGGUETON
 
 200 Copas - KAROL G.mp3
 6 AM.mp3
@@ -725,7 +725,7 @@ LUNA LLENA.wma
 RX - Don Omar.wma
 SALUD Y VIDA.wma
 
-# Directorio de E:\MUSICA-GENERAL\14-ROCK EN ESPA¥OL
+## Directorio de E:\MUSICA-GENERAL\14-ROCK EN ESPA¥OL
 
 AFUERA.MP3
 AMIGOS - enanitos verdes.mp3
@@ -786,12 +786,12 @@ VENENO EN LA PIEL.mp3
 VICENTICO  ALGO CONTIGO.mp3
 VIVIR SIN AIRE - Mana.mp3
 
-# Directorio de E:\MUSICA-GENERAL\14-ROCK EN ESPA¥OL\MAGO DE OZ
+## Directorio de E:\MUSICA-GENERAL\14-ROCK EN ESPA¥OL\MAGO DE OZ
 
 FIESTA PAGANA.mp3           LA COSTA DEL SILENCIO.mp3
 Molinos De Viento.mp3       
 
-# Directorio de E:\MUSICA-GENERAL\15-SALSA
+## Directorio de E:\MUSICA-GENERAL\15-SALSA
 
 A BARRANQUILLA.mp3
 A DONDE IRAS.mp3
@@ -1634,7 +1634,7 @@ yo tambien soy sentimental - ismael miranda.mp3
 Yolanda - guayacan.mp3
 ZUMBALE.mp3
 
-# Directorio de E:\MUSICA-GENERAL\15-SALSA\05-50 EXITOS SALSA NUEVA 2012
+## Directorio de E:\MUSICA-GENERAL\15-SALSA\05-50 EXITOS SALSA NUEVA 2012
 
 001Si tu me besas - Victor Manuelle.mp3
 002LA PELOTICA - ANDDY CAICEDO.mp3
@@ -1685,17 +1685,17 @@ ZUMBALE.mp3
 049EL QUE SE FUE - ANGEL LEBRON.mp3
 050LA TOALLA - ORQ LA KSHAMBA.mp3
 
-# Directorio de E:\MUSICA-GENERAL\15-SALSA\BOLEROS
+## Directorio de E:\MUSICA-GENERAL\15-SALSA\BOLEROS
 
 AUSENCIA.mp3              FALSARIA.mp3              MUJER DIVINA.mp3
 NOSTALGIA.mp3             PENAS.mp3                 SABRE OLVIDAR.mp3
 SALCHICHA CON HUEVO.mp3   
 
-# Directorio de E:\MUSICA-GENERAL\15-SALSA\CHARANGA
+## Directorio de E:\MUSICA-GENERAL\15-SALSA\CHARANGA
 
 Chico Vacilon.mp3    CHIN CHON CHAO.mp3   
 
-# Directorio de E:\MUSICA-GENERAL\15-SALSA\CHOQUE
+## Directorio de E:\MUSICA-GENERAL\15-SALSA\CHOQUE
 
 CASANOVA - Que Nada Opaque Tu Felicidad.mp3
 CUCHA CUCHA.mp3
@@ -1719,13 +1719,13 @@ tokyo-Salsa Choke.mp3
 TRAKE QUE TRA.mp3
 VITAMINA - CASANOVA.mp3
 
-# Directorio de E:\MUSICA-GENERAL\15-SALSA\CLASICA
+## Directorio de E:\MUSICA-GENERAL\15-SALSA\CLASICA
 
 ALTO SONGO.mp3           CONSUELATE COMO YO.mp3   LA RU¥IDERA.mp3
 LA TUNA.mp3              PALO DE MANGO.mp3        SANDRA MORA.mp3
 SHAKE IT BABY.mp3        
 
-# Directorio de E:\MUSICA-GENERAL\15-SALSA\GRUPO NICHE
+## Directorio de E:\MUSICA-GENERAL\15-SALSA\GRUPO NICHE
 
 ANA MILE.mp3                         APRIETA.mp3
 BUENAVENTURA Y CANEY.mp3             CALI AJI.mp3
@@ -1739,7 +1739,7 @@ NUESTRO SUE¥O.mp3                    POR QUE DIOS TE HIZO TAN BELLA.mp3
 ROBANDO SUE¥OS.mp3                   SE PARECIO TANTO A TI.mp3
 SIN PALABRAS.mp3                     UNA AVENTURA.mp3
 
-# Directorio de E:\MUSICA-GENERAL\15-SALSA\JOE ARROYO
+## Directorio de E:\MUSICA-GENERAL\15-SALSA\JOE ARROYO
 
 Cantinero.mp3
 Documental Joe Arroyo.mp3
@@ -1789,7 +1789,7 @@ Pa¤uelo y Guayuco.mp3
 Sabre Olvidar.mp3
 Tal Para Cual.mp3
 
-# Directorio de E:\MUSICA-GENERAL\15-SALSA\PACHANGA Y BOOGALOO
+## Directorio de E:\MUSICA-GENERAL\15-SALSA\PACHANGA Y BOOGALOO
 
 001-Ray Perez - Pal 23.mp3
 002-Alfredito LInares - Mambo rock.mp3
@@ -1799,7 +1799,7 @@ Tal Para Cual.mp3
 007-Belisario Lopez - En casa de estanislao.mp3
 008-Jack Constanzo - A la la e.mp3
 
-# Directorio de E:\MUSICA-GENERAL\15-SALSA\ROSA
+## Directorio de E:\MUSICA-GENERAL\15-SALSA\ROSA
 
 001.QUE VOY HACER SIN TI-GRUPO CANEO.mp3
 002.AMIGA-MAELO RUIZ.mp3
@@ -1906,7 +1906,7 @@ ELLA ES MIA.mp3
 NECESITO UN AMOR.mp3
 POR FAVOR SE¥ORA.mp3
 
-# Directorio de E:\MUSICA-GENERAL\15-SALSA\ROSA\DE ALCOBA
+## Directorio de E:\MUSICA-GENERAL\15-SALSA\ROSA\DE ALCOBA
 
 001-Pedro Arroyo - Tu Ausencia.mp3
 002-Willie Gonzalez - En la intimidad.mp3
@@ -1915,7 +1915,7 @@ POR FAVOR SE¥ORA.mp3
 006-Hansel Camacho - Verdades.mp3
 008-Eddie Santiago - Necesito.mp3
 
-# Directorio de E:\MUSICA-GENERAL\15-SALSA\TIMBA CUBANA
+## Directorio de E:\MUSICA-GENERAL\15-SALSA\TIMBA CUBANA
 
 01-Loco Pero Feliz - Pirulo  La Tribu.mp3
 02-Por eso me mantengo - La Van Van.mp3
@@ -1923,7 +1923,7 @@ POR FAVOR SE¥ORA.mp3
 05-Brujeria - Maikel Blanco.mp3
 06-Me enloqueces - Yao y Malon.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\26-IDOLOS DEL ECUADOR
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\26-IDOLOS DEL ECUADOR
 
 001-Juan Alava - Comprende que te quiero.mp3
 002-Julio Jaramillo - CARNAVAL DE LA VIDA.mp3
@@ -1936,7 +1936,7 @@ POR FAVOR SE¥ORA.mp3
 009-Noe Morales - Ingratitud.mp3
 010-Olimpo Cardenas - Adoracion.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\49-IDOLOS DEL PUEBLO
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\49-IDOLOS DEL PUEBLO
 
 001-Rodolfo Aicardi - Naila.mp3
 002-Tito Cortez - PIDA MAS TRAGO.mp3
@@ -1948,7 +1948,7 @@ POR FAVOR SE¥ORA.mp3
 008-Rodolfo Aicardi - Cinco Ases.mp3
 009-Romulo Caicedo - Mejor solo Mix.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\ANA GABRIEL
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\ANA GABRIEL
 
 Ahora - Ana Gabriel Videoclip Oficial HD - Telemanias..mp3
 ANA GABRIEL  ES DEMASIADO TARDE.mp3
@@ -1982,7 +1982,7 @@ Cosas del Amor   Amiga   Ana Gabriel y Vikki Carr.mp3
 Los 20 Discos en Espa¤ol m s Vendidos de los A¤os 80.mp3
 Y Aqu¡ Estoy - Ana Gabriel Videoclip Original (Vivo 1989)..mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\Julio Jaramillo
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\Julio Jaramillo
 
 Amar Duele, Julio Jaramillo - Audio.mp3
 Andate, Julio Jaramillo - Audio.mp3
@@ -2030,7 +2030,7 @@ Un Disco M s, Julio Jaramillo - Audio.mp3
 Yo No Se Que Me Han Hecho Tus Ojos, Julio Jaramillo - Audio.mp3
 àdiame, Julio Jaramillo - Audio.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\NORTE¥A
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\NORTE¥A
 
 001-Tigres del Norte - Ni parientes somos.mp3
 002-Los Rayos - La esquina.mp3
@@ -2042,7 +2042,7 @@ Yo No Se Que Me Han Hecho Tus Ojos, Julio Jaramillo - Audio.mp3
 009-Tigres del Norte - Se¤or locutor.mp3
 010-Los Rayos - Flor de campo.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\NORTE¥A\CORRIDOS PROHIBIDOS
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\NORTE¥A\CORRIDOS PROHIBIDOS
 
 001-James Andrade - El bacan caquete¤o.mp3
 003-Hermanos Suarez - Gracias mi viejo.mp3
@@ -2053,7 +2053,7 @@ Yo No Se Que Me Han Hecho Tus Ojos, Julio Jaramillo - Audio.mp3
 008-Los Mercenarios - Corrido Paramilitar.mp3
 009-La mula - Explosivos del Norte.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\NORTE¥A\Los Rayos
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\NORTE¥A\Los Rayos
 
 Arrepentido.mp3
 Billete Verde.mp3
@@ -2083,7 +2083,7 @@ Una pura y dos con sal - Los rayos.mp3
 Voy a Bajarte un Lucero.mp3
 y por esa calle vive los rayos con letra.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR
 
 AHORA QUE PUEDO.mp3
 ANGEL O DEMONIO.mp3
@@ -2121,17 +2121,17 @@ YO SOY ASI - EL ANDARIEGO .mp3
 YO YA NO VUELVO CON TIGO - LENIN RAMIREZ.mp3
 
 
-# AMOR VERDADERO.mp3           AUNQUE NO SEA CONMIGO.mp3
+## AMOR VERDADERO.mp3           AUNQUE NO SEA CONMIGO.mp3
 FRENTE A FRENTE.mp3          YA NO ESTOY A TUS PIES.mp3
 
 
-# CORAZON AMIGO.mp3          DICES QUE NO VUELVES.mp3
+## CORAZON AMIGO.mp3          DICES QUE NO VUELVES.mp3
 DOS COSAS.mp3              LA CULPA ES TUYA.mp3
 LAS DESPECHADAS.mp3        LO PASADO PISADO.mp3
 NO PELIEMOS TANTO.mp3      PARA QUE VUELVES.mp3
 SE¥OR PROHIBIDO.MP3        
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\CARLOS ORDO¥EZ
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\CARLOS ORDO¥EZ
 
 001.de-principe-a-verdugo-carlos-ordonez_fa5pqpZB.mp3
 002. Carlos Ordo¤ez  Amar es Dejar partir.mp3
@@ -2141,7 +2141,7 @@ SE¥OR PROHIBIDO.MP3
 006.NO QUIERO VERTE LLORAR  CARLOS ORDO¥EZ.mp3
 007.Te Confieso  Carlos Ordo¤ez.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\CHARRITO NEGRO
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\CHARRITO NEGRO
 
 A PUNTA DE TRAGO.mp3         BUSCANDO TU PERDON.mp3
 CUANDO YO MUERA.mp3          EL PASO DE MIS A¥OS.mp3
@@ -2151,7 +2151,7 @@ QUERERTE FUE UN ERROR.mp3    SI ME DEJAS NO VALE.mp3
 TODAVIA ME QUIERES.mp3       TRAGAO, PELAO Y LLEVAO.mp3
 TU ERES AJENA.mp3            
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\CHARRITO NEGRO\El Charrito Negro
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\CHARRITO NEGRO\El Charrito Negro
 
 A Punta De Trago -  El Charrito Negro.mp3
 Acons‚jeme  Amigo -  Alexander & El Charrito Negro.mp3
@@ -2234,13 +2234,13 @@ Usted Se¤ora -  En Vivo - El Charrito Negro.mp3
 Usted Se¤ora - El Charrito Negro.mp3
 Ya Te Olvide - Aragon - En Vivo.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\CRISTIAN NODAL
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\CRISTIAN NODAL
 
 ADIOS AMOR.mp3
 La Sinvergenza - Christian Nodal, Banda MS.mp3
 PROBABLEMENTE.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\DARIO DARIO
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\DARIO DARIO
 
 001.Me canse de la moza   -Dario Dario.mp3
 002.bebo por ella -dario dario.mp3
@@ -2251,7 +2251,7 @@ PROBABLEMENTE.mp3
 007.ME TRAICIONASTE.mp3
 008.falsos amigos.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\DARIO GOMEZ
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\DARIO GOMEZ
 
 AHI ESTABA.mp3               CORAZONADA.mp3
 EL CASO DE DOS MUJERES.mp3   EL REY DEL DESPECHO.mp3
@@ -2259,7 +2259,7 @@ LAS DESPECHADAS.mp3          ME TIRE EL MATRIMONIO.mp3
 MI CORAZON ESTA SOLITO.mp3   MUY DEMALAS.mp3
 NADIE ES ETERNO.mp3          SOBREVIVIRE.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\EL ANDARIEGO
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\EL ANDARIEGO
 
 ADICTO A TI.mp3                AMOR MALSANO.mp3
 BORRACHO LA EMBARRE.mp3        DIEZ MIL NOCHES CON TIGO.mp3
@@ -2269,7 +2269,7 @@ LA VIDA ES UN BAILE.mp3        MIAMOR VERDADERO.mp3
 NO ERES PARA MI.mp3            SE ACABO ESTE AMOR.mp3
 SUPERALO.mp3                   
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\EL ANDARIEGO\El Andariego
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\EL ANDARIEGO\El Andariego
 
 AMOR MALSANO EL ANDARIEGO.mp3
 Cuando me vaya - el andariego.wmv.mp3
@@ -2365,30 +2365,30 @@ VOLVAMOS - EL ANDARIEGO.mp3
 YA NO SOMOS LOS AMANTES -EL ANDARIEGO.mp3
 ¨Como empezar a tocar guitarra ¨Que debo aprender.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\ESPINOZA PAZ
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\ESPINOZA PAZ
 
 Soltero Feliz -  Espinoza Paz.mp3   
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\FERNANDO BURBANO
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\FERNANDO BURBANO
 
 AHORA NO.mp3                   CUANDO SEAMOS NOVIOS.mp3
 DECIDÖ VENGARME.mp3            DOBLE DOSIS DE LICOR.mp3
 ENTRE EL AMOR Y EL TRAGO.mp3   LA LEY DEL AMOR.mp3
 SOLDADO DEL AMOR.mp3           
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\FRANCISCO GOMEZ
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\FRANCISCO GOMEZ
 
 AMOR DE CAMA.mp3            LA TUMBA ES IGUAL.mp3
 ME ILUSIONASTE.mp3          QUIEN PERDIO.mp3
 SE ME TORCIO LA NOVIA.mp3   SOLO TRES TRAGOS.mp3
 TODO ES INTERES.mp3         
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\FRANCY
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\FRANCY
 
 ASI ME DUELA.mp3                 LA REINA DE LA CANTINA.mp3
 PACTO DE CARICIAS - FRANCY.mp3   
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\FREDDY BURBANO
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\FREDDY BURBANO
 
 001.Freddy Burbano - Mala Gente - Video Oficial - Colombia.mp3
 002.infidelidad  -freddy burbano..mp3
@@ -2399,7 +2399,7 @@ PACTO DE CARICIAS - FRANCY.mp3
 007.por tu ,maldito error -freddy burbano..mp3
 008.despecho y traicion -freddy burbano.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\FREDDY BURBANO\Fredy Burbano
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\FREDDY BURBANO\Fredy Burbano
 
 Freddy Burbano - Bohemio.mp3
 Freddy Burbano - De que me presumes.mp3
@@ -2414,7 +2414,7 @@ Freddy Burbano - Te har‚ feliz.mp3
 Freddy Burbano FT. Uriel Henao - Cruel Traici¢n..mp3
 No vendo mi caballo - Freddy Burbano (Video Oficial).mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\JAMES ANDRADE
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\JAMES ANDRADE
 
 001.A MIL POR HORA - JAMES ANDRADE.mp3
 002.POR CONFIAR EN TU AMOR   JAMES ANDRADE.mp3
@@ -2422,7 +2422,7 @@ No vendo mi caballo - Freddy Burbano (Video Oficial).mp3
 004.AHORA MIRAME - JAMES ANDRADE.mp3
 005.ahora ocupo tu lugar - James Andrade.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\JESSI URIBE
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\JESSI URIBE
 
 AMOR DE AMANTE.mp3
 DE QUE NOS VALE.mp3
@@ -2435,7 +2435,7 @@ Result¢ Muy Perra me dejo solito - Jessi Uribe, Carin Leon.mp3
 SE TE NOTA - PIPE BUENO.mp3
 SI ME VEN LLORANDO.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\JESSI URIBE\Jessi Uribe
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\JESSI URIBE\Jessi Uribe
 
 'Nadie es eterno' - Jessi Uribe - Show 100 millones   A otro Nivel.mp3
 'Sobrevivir‚' - Jessi Uribe - Final   A otro Nivel.mp3
@@ -2495,7 +2495,7 @@ Ya No Hay Tiempo Pa Llorar - Manuel Giraldo [Video Oficial].mp3
 ?? Devu‚lveme La Vida Juan Despecho.mp3
 ?? Juan Despecho - Melancol¡a [Hecho En Casa].mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\JHON ALEX CASTA¥O
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\JHON ALEX CASTA¥O
 
 A PUNTA DE LICOR.mp3       AMANECÖ CONTENTO.mp3
 AMIGOS CON DERECHOS.mp3    ASI ES EL AMOR.mp3
@@ -2509,7 +2509,7 @@ QUE DIOS ME PERDONE.mp3    QUE ME TRAIGAN LICOR.mp3
 TIENES QUE SUFRIR.mp3      VIVIR SIN TI.mp3
 Y SI TE VAS.mp3            
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\JHON ALEX CASTA¥O\Jhon Alex Casta¤o
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\JHON ALEX CASTA¥O\Jhon Alex Casta¤o
 
 @jhonalexcastano Jhon Alex Casta¤o - Por Culpa del Licor (2).mp3
 @jhonalexcastano Jhon Alex Casta¤o - Por Culpa del Licor.mp3
@@ -2593,7 +2593,7 @@ Vuelve.mp3
 Y Si Te Vas.mp3
 Ya No Quiero Verte - Jhon Alex Casta¤o (Video Oficial).mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\JHONNY RIVERA
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\JHONNY RIVERA
 
 Alguien Toco Mi Corazon - Jhonny Rivera (Video Oficial).mp3
 Amor y despecho Jhonny Rivera & Jhon Alex Casta¤o.mp3
@@ -2653,24 +2653,24 @@ Tengo Rabia Conmigo, Jhonny Rivera - V¡deo Oficial.mp3
 Termino Tu Juego - Jhonny Rivera (Video Oficial).mp3
 Tus 15 A¤os - Jhonny Rivera (Video Oficial).mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\JUAN CARLOS ZARABANDA
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\JUAN CARLOS ZARABANDA
 
 no llores mas corazon.mp3             RENUNCIO -JUAN CARLOS ZARABANDA.mp3
 TU LIBERTAD.mp3                       VENDIDA.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\LOS DOS CARNALES
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\LOS DOS CARNALES
 
 CABORN Y VAGO.mp3                 EL BORRACHO.mp3
 EL ENVIDIOSO.mp3                  LA TOXICA.mp3
 OTRA BOTELLA - LOS CARNALES.mp3   TE VAS A ARREPENTIR.mp3
 VIDA VENTAJOSA.mp3                
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\LOS TIGRES DEL NORTE
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\LOS TIGRES DEL NORTE
 
 JEFE DE JEFES.mp3            LA BRONCO NEGRA.mp3
 NO PUDE ENAMORARME MAS.mp3   SI ME VAS A DEJAR.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\LUIS ALBERTO POSADA
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\LUIS ALBERTO POSADA
 
 CAJON DE FINA MADERA.mp3    CORAZON DE PALO.mp3
 CUENTALE A ESE.mp3          CUENTO TRES Y TE VAS.mp3
@@ -2680,7 +2680,7 @@ OJALA NO TE DUELA.mp3       PARA QUE REGRESAS.mp3
 SEDUCTORA EXPLOTADORA.mp3   SIN RENCOR.mp3
 TU TRAICION.mp3             
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\LUISITO MU¥OZ
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\LUISITO MU¥OZ
 
 A NADA LE TIRO MENTE.mp3       ANGEL O DEMONIO.mp3
 ASI ES EL AMOR.mp3             BRINDO POR EL NUEVO AMOR.mp3
@@ -2688,11 +2688,11 @@ COMO LE HAGO.mp3               CORAZON DE ACERO.mp3
 DULCE NI¥A.mp3                 JAMAS.mp3
 LOCO BOHEMIO.mp3               TU AMOR NO ES PARA MI.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\MARBELLE
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\MARBELLE
 
 DIAS NUBLADOS.mp3   
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\ORLANDO LOPEZ
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\ORLANDO LOPEZ
 
 A QUE SANTO LE REZAS.mp3     AMOR SECRETO.mp3
 ENTRE AMANTES.mp3            HABLAME DE TI.mp3
@@ -2701,15 +2701,15 @@ SIN TESTIGOS.mp3             SOLTERO ME QUEDO.mp3
 SUFRE CORAZON.mp3            TE PILLE MAL PARQUEADA.mp3
 TRES NOCHES.mp3              TU IMAGEN Y EL TRAGO.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\PAOLA JARA
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\PAOLA JARA
 
 LOS BESOS JAMAS.mp3     MI MAYOR VENGANZA.mp3   PALABRAS.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\PIPE BUENO
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\PIPE BUENO
 
 A PRIMERA VISTA.mp3   
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\PIPE BUENO\Pipe Bueno
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\PIPE BUENO\Pipe Bueno
 
 A primera vista - Pipe Bueno video oficial.mp3
 Aguardiente - Pipe Bueno Ft. Pasabordo   Video Lyric.mp3
@@ -2742,18 +2742,18 @@ Se Te Nota - Pipe Bueno x Jessi Uribe   Video Oficial.mp3
 Sin Ropa Eres M¡a - Pipe Bueno   Video Oficial.mp3
 Tequila - Pipe Bueno x Maluma   Video Oficial.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\PISTAS
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\PISTAS
 
 01-Jhon Alex Casta¤o - Amigos con derecho.mp3
 02-Jimmy Gutierrez - Me bebi lo del mercado.mp3
 03-Luis Alberto Posada - Sin rencor.mp3
 05-Charrito Negro - Ojala y te dure.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\SEBASTIAN AYALA
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\SEBASTIAN AYALA
 
 MI DECISIàN - Sebastian Ayala.mp3   
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\YEISON JIMENEZ
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\YEISON JIMENEZ
 
 Amarlas Es Un Placer - Yeison Jimenez.mp3
 ANDA DILE.mp3
@@ -2784,11 +2784,11 @@ TU LUGAR YA ESTA OCUPADO.mp3
 UNA COPA MAS.mp3
 VULVE Y ME PASA.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\YIMMY GUTIERREZ
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\YIMMY GUTIERREZ
 
 PA LAS QUE SEA.mp3   
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\YONY RIVERA
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\POPULAR\YONY RIVERA
 
 BELLA.mp3                    COMO UNA PELOTA.mp3
 COMPRENDI QUE TE PERDI.mp3   DUELE TU AUSENCIA.mp3
@@ -2798,7 +2798,7 @@ MI AMOR SECRETO.mp3          TE EXTRA¥O.mp3
 TE SIGO QUERIENDO.mp3        TU Y YO.mp3
 YA VENIAS APRENDIDA.mp3      
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\RANCHERA
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\RANCHERA
 
 A Donde Vamos A Parar--Marco Antonio Solis.mp3
 ACA ENTRE NOS - VICENTE FERNANDEZ.mp3
@@ -2854,7 +2854,7 @@ VICENTE FERNANDEZ LO MEJOR DE LO MEJOR SUS GRANDES CANCIONES.mp3
 Y Ahora Te Vas--Los Bukis.mp3
 Ya Nada Es Igual--Marco Antonio Solis.mp3
 
-# Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\RANCHERA\VICENTE FERNANDEZ
+## Directorio de E:\MUSICA-GENERAL\16-PA'TOMAR\RANCHERA\VICENTE FERNANDEZ
 
 001-Vicente Fern ndez- Cuando yo quer¡a ser grande..mp3
 002-VICENTE FERNANDEZ - DE 7 A 9.mp3
@@ -2867,7 +2867,7 @@ Ya Nada Es Igual--Marco Antonio Solis.mp3
 009-Vicente Fernandez La Diferencia Con Letra.mp3
 010-VICENTE FERNANDEZ  SE¥ORA DE TAL.mp3
 
-# Directorio de E:\MUSICA-GENERAL\17-POP
+## Directorio de E:\MUSICA-GENERAL\17-POP
 
 10000 batallas.mp3
 12 vuelve419.mp3
@@ -3126,7 +3126,7 @@ Para tu amor - Juanes.wma
 TU RECUERDO-RICKY MARTIN.wma
 Volverte a Ver - Juanes.wma
 
-# Directorio de E:\MUSICA-GENERAL\18-RAP
+## Directorio de E:\MUSICA-GENERAL\18-RAP
 
 001-Major Distribution - 50 Cent ft Snoop Dog.mp3
 002-50 Cent - P.I.M.P.mp3
@@ -3136,7 +3136,7 @@ Volverte a Ver - Juanes.wma
 005-Elevator Music   J Doe ft  Busta Rhymes.mp3
 006-The Champ   Nelly.mp3
 
-# Directorio de E:\MUSICA-GENERAL\19-REGGAE
+## Directorio de E:\MUSICA-GENERAL\19-REGGAE
 
 001-Bob Marley - Stir It Up.mp3
 002-UB 40 - Red red wine.mp3
@@ -3145,7 +3145,7 @@ Volverte a Ver - Juanes.wma
 006-Alpha Blondy - God is one.mp3
 007-Coolio - Gangstas paradise.mp3
 
-# Directorio de E:\MUSICA-GENERAL\20-MUSICA COLOMBIANA
+## Directorio de E:\MUSICA-GENERAL\20-MUSICA COLOMBIANA
 
 001-Campesina santandereana.mp3
 002-Emeterio y Felipe - El contrabandista.mp3
@@ -3158,7 +3158,7 @@ Volverte a Ver - Juanes.wma
 009-Emeterio y Felipe - Soy Boyacense.mp3
 010-Estudiantina Lopez - Trago a los musicos.mp3
 
-# Directorio de E:\MUSICA-GENERAL\21-MUSICA CUBANA
+## Directorio de E:\MUSICA-GENERAL\21-MUSICA CUBANA
 
 001-LA FIESTA NO ES PARA FEOS.--GUARACHEROS DE ORIENTE..mp3
 002-OYE EL CHACHA.---TRIO MATAMOROS..mp3
@@ -3170,14 +3170,14 @@ Volverte a Ver - Juanes.wma
 008-HUERFANO SOY.--TRIO LA ROSA..mp3
 010-EL CARRETERO-PORTABALES.MP3
 
-# Directorio de E:\MUSICA-GENERAL\22-PASODOBLES
+## Directorio de E:\MUSICA-GENERAL\22-PASODOBLES
 
 001-SILVERIO-MARIACHI MEXICO.MP3        002-EL BANDERILLERO-GARIBALDI.MP3
 003-EL RELICARIO-TONY MUNERA.MP3        004-ESPA¥A CA¥I-EDMUNDO ROSS.MP3
 005-EL DOS NEGRO-GARIBALDI.MP3          006-EL SOMBRERO-ENRIQUE RODRIGUEZ.MP3
 007-EL GATO MONTES-JALISCO.MP3          008-ANA LILIA-MARIACHI MEXICO.MP3
 
-# Directorio de E:\MUSICA-GENERAL\23-VALLENATO
+## Directorio de E:\MUSICA-GENERAL\23-VALLENATO
 
 A La Voluntad De Dios - Daniel Calder¢n.mp3
 Amantes -  Elder Day n D¡az y Rolando Ochoa.mp3
@@ -3201,7 +3201,7 @@ TE EMPELICULASTE.mp3
 Tu me gustas - Penchy Castro.mp3
 Vestirte de Amor - Felipe Pel ez y Manuel Juli n (Letra).mp3
 
-# Directorio de E:\MUSICA-GENERAL\23-VALLENATO\06-50 EXITOS VALLENATO NUEVO 2012
+## Directorio de E:\MUSICA-GENERAL\23-VALLENATO\06-50 EXITOS VALLENATO NUEVO 2012
 
 001.ok-JB MUSIC LO MEJOR...!.mp3
 002-dile.dile.jb music lo mejor.mp3
@@ -3255,7 +3255,7 @@ Vestirte de Amor - Felipe Pel ez y Manuel Juli n (Letra).mp3
 051La prima - Farid Ortiz.mp3
 052YA NO ME INTERESA - JORGE CELEDON.mp3
 
-# Directorio de E:\MUSICA-GENERAL\23-VALLENATO\10-VALLENATOS DEL AYER
+## Directorio de E:\MUSICA-GENERAL\23-VALLENATO\10-VALLENATOS DEL AYER
 
 001-Los Chiches - Ceniza fria.mp3
 002-Ramiro y joche - Demasiado tarde.mp3
@@ -3265,7 +3265,7 @@ Vestirte de Amor - Felipe Pel ez y Manuel Juli n (Letra).mp3
 006-Miguel Morales - Mi diosa humana.mp3
 007-Los Diablitos - Busca un confidente.mp3
 
-# Directorio de E:\MUSICA-GENERAL\23-VALLENATO\DIOMEDES DIAZ
+## Directorio de E:\MUSICA-GENERAL\23-VALLENATO\DIOMEDES DIAZ
 
 000-Asi me hizo dios Diomedes Diaz.mp3
 001-Entre el bien y el mal.mp3
@@ -3278,7 +3278,7 @@ Vestirte de Amor - Felipe Pel ez y Manuel Juli n (Letra).mp3
 008-Los recuerdos de ella.mp3
 010-Mi primera cana.mp3
 
-# Directorio de E:\MUSICA-GENERAL\23-VALLENATO\Los Chiches
+## Directorio de E:\MUSICA-GENERAL\23-VALLENATO\Los Chiches
 
 A tu ventana- Los Chiches Vallenatos (Con Letra HD) Ay hombe!!!.mp3
 Amante de infinitos- Los Chiches Vallenatos (Con Letra ) Ay Hombe!!!.mp3
@@ -3383,7 +3383,7 @@ Voy a decirle adios- Los Chiches Vallenatos (Con Letra ) Ay Hombe!!!.mp3
 Voy a olvidarte- Los Chiches Vallenatos (Con Letra ) Ay Hombe!!!.mp3
 Y se va- Los Chiches Vallenatos (Con Letra HD) Ay hombe!!!.mp3
 
-# Directorio de E:\MUSICA-GENERAL\23-VALLENATO\Los Diablitos
+## Directorio de E:\MUSICA-GENERAL\23-VALLENATO\Los Diablitos
 
 A Besitos, Los Diablitos (30 Mejores)-Audio.mp3
 Busca Un Confidente, Los Diablitos (30 Mejores) - Audio.mp3
@@ -3416,12 +3416,12 @@ T£, Los Diablitos (30 Mejores).mp3
 Y Yo Ni Se Diga, Los Diablitos (30 Mejores)- Audio.mp3
 ¨D¢nde Esta, Los Diablitos (30 Mejores)- Audio.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK
 
 AMAME.mp3                 LAMBADA.mp3               QUE BELLO.mp3
 QUIERO SER FELIZ.mp3      TIENES QUE QUERERME.mp3   
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\31-CARRILERA
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\31-CARRILERA
 
 001-Falsedad - Ana Leticia Moreno.mp3
 002-Era un domingo - Alegres Cordillera.mp3
@@ -3434,7 +3434,7 @@ QUIERO SER FELIZ.mp3      TIENES QUE QUERERME.mp3
 009-Andale - Hermanas Padilla.mp3
 010-Tumba sin doliente - Merchan y Gonzalez.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\AFROSOUND
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\AFROSOUND
 
 AFROSOUND ( PONCHITO DE COLORES ).mp3
 Afrosound - Caliventura.mp3
@@ -3466,7 +3466,7 @@ the afrosound - nadie sabe mis penas.mp3
 TIRO AL BLANCO.mp3
 Volando afrosound xvid.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\ALFREDO GUTIERREZ
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\ALFREDO GUTIERREZ
 
 00.RUMBA Y ALCOHOL.mp3
 00.UN CLAVO SACA OTRO CLAVO con dario gomez.mp3
@@ -3572,7 +3572,7 @@ Volando afrosound xvid.mp3
 099. amor de una vida - alfredo gutierrez.mp3
 100. La avispita- Alfredo Gutierrez.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\ANIBAL VELASQUEZ
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\ANIBAL VELASQUEZ
 
 ANIBAL VELASQUEZ -  Chiquich  .mp3
 Anibal Velasquez - Sal y agua.mp3
@@ -3596,7 +3596,7 @@ Musica de diciembre anibal velasquez CACHITA.mp3
 Navidad - Anibal Vel squez.mp3
 Remolinos - Anibal Velasquez.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\ANICETO MOLINA
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\ANICETO MOLINA
 
 Aniceto Molina  Caballito De Palo .mp3
 Aniceto molina  El gallo mojado.mp3
@@ -3621,7 +3621,7 @@ La gorra no se me cae Aniceto Molina.mp3
 La Jeringoza - Aniceto Molina.mp3
 no queda nada aniceto molina.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\ARMANDO HERNANDEZ
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\ARMANDO HERNANDEZ
 
 001.Loquito por ti - Armando Hernandez - Cumbia Colombiana.mp3
 armando hernandes te sigo amando.mp3
@@ -3649,7 +3649,7 @@ SI VAS PARA CHILE - armando hernandez 40 a¤os ( CONTACTO 312 - 5815005 COLOMBIA
 sin alma y sin corazon - armando hernandez.mp3
 SOLO EN MI SOLEDAD - ARMANDO HERNANDEZ.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\CALIXTO OCHOA
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\CALIXTO OCHOA
 
 Calixto Ochoa - La Mujer del Zapatero.mp3
 Calixto Ochoa - Los sabanales.mp3
@@ -3670,7 +3670,7 @@ Playas Marina - Calixto Ochoa.mp3
 Remanga - Calixto Ochoa.mp3
 Un cuarto de corazon - Calixto Ochoa (HD).mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\CANTINERAS DEL SIGLO
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\CANTINERAS DEL SIGLO
 
 0000000000001..Tu Pasaje Al Olvido - Luisito Mu¤oz.mp3
 000000001.SI SE FUE SE FUE-francy-JB MUSIC LO MEJOR...!.mp3
@@ -3818,7 +3818,7 @@ Un cuarto de corazon - Calixto Ochoa (HD).mp3
 0119.QUE ME LLOREN - FRANCISCO GOMEZ.mp3
 0120.ME LO MOCHO POR INFIEL - JHONNY RIVERA.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\CARRILERAS
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\CARRILERAS
 
 001. AMOR GITANO.mp3
 002. EL CONTRAGOLPE.mp3
@@ -3865,7 +3865,7 @@ Un cuarto de corazon - Calixto Ochoa (HD).mp3
 100. NUESTRO JURAMENTO.mp3
 101. ODIAME.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\CA¥ONAZOS BAILABLES DE AYER Y HOY
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\CA¥ONAZOS BAILABLES DE AYER Y HOY
 
 001DULCE,COMBO PALACIO.mp3
 002TORMENTA DE ARENA,COMBO PALACIO.mp3
@@ -3948,7 +3948,7 @@ Un cuarto de corazon - Calixto Ochoa (HD).mp3
 079ACOMPA¥µME LUNA,MARQUA.mp3
 080ADIOS AL AMOR,ARMANDO HERNANDEZ.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\CORRALEROS DE MAJAGUA
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\CORRALEROS DE MAJAGUA
 
 0001-PARA MI.mp3                        001- EL TORO MIURA.mp3
 002- FESTIVAL EN GUARAR.mp3            003- EL VAMPIRO.mp3
@@ -3976,7 +3976,7 @@ Un cuarto de corazon - Calixto Ochoa (HD).mp3
 049- SI NO VUELVES.mp3                  050- LAS ENGANADORAS.mp3
 051- EMELINA.mp3                        
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\CUARTETO IMPERIAL
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\CUARTETO IMPERIAL
 
 BAILA SIMON EL CUARTETO IMPERIAL.mp3
 Cuarteto Imperial   - A Bailar a¤o Nuevo.mp3
@@ -3999,7 +3999,7 @@ LA SUEGRA EL CUARTETO IMPERIAL SON POPULAR COLOMBIA.mp3
 mi caban~ita.mp3
 NUEVO TEMA CUARTETO IMPERIAL 2013 EL BAILE DEL INDIO.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\CUMBIAS TROPICALES
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\CUMBIAS TROPICALES
 
 Alfredo Gutierrez - Dos mujeres.mp3
 Amargo y Dulce Orquesta la Tremenda.mp3
@@ -4025,7 +4025,7 @@ Rodolfo Y Su Tipica ~ Tabaco Y Ron.mp3
 Sonora Palacios - Morena de 15 A¤os.mp3
 The Latin Brothers Dale Al Bombo.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\DIMENSION LATINA
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\DIMENSION LATINA
 
 Dimension Latina & Oscar D' Leon - Sun Sun Babae.mp3
 dimension latina - dos letras.mp3
@@ -4051,7 +4051,7 @@ Tu Me Recordar s - Dimensi¢n Latina.mp3
 YA NO REGRESO CONTIGO - ROBERTO BLADES.mp3
 Z DIMENSIONDETALLES - ROBERTO BLADES.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\DIOMEDES DIAZ
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\DIOMEDES DIAZ
 
 A un cari¤o del alma letra - Diomedes D¡az.mp3
 Amarte Mas No Pude Diomedes Diaz - Letra.mp3
@@ -4076,11 +4076,11 @@ Si te vas Te olvido y Dejame llorar.mp3
 Sin Saber Que Me Espera - Diomedes Diaz - Letra.mp3
 Te quiero mucho-Diomedes Diaz con Letra.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\EDGAR LEANDRO
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\EDGAR LEANDRO
 
 PAGARAS.mp3   
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\FRUKO Y SUS TESOS
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\FRUKO Y SUS TESOS
 
 El Ausente - Fruko y sus tesos (letra).mp3
 El caminante - Joe Arroyo (Fruko y sus Tesos).mp3
@@ -4108,7 +4108,7 @@ SANTA BARBARA - FRUKO Y SUS TESOS.mp3
 TE ESTOY LLORANDO-FRUKO Y SUS TESOS.mp3
 Tu Sufriras-Fruko Y Sus Tesos.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\GABRIEL ROMERO (LOS WARAHUACO)
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\GABRIEL ROMERO (LOS WARAHUACO)
 
 EL CANOERO - LOS WARAHUACO.mp3
 Gabriel Romero  - La Subienda.mp3
@@ -4134,7 +4134,7 @@ Los Warahuaco - T£ me hiciste vivir.mp3
 MALDITA VIOLENCIA - Gabriel Romero.mp3
 MANGO CHUPA - GABRIEL ROMERO.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\GARZON Y COLLAZOS
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\GARZON Y COLLAZOS
 
 ABANDONO   GARZON Y COLLAZOSmp3.mp3
 ACIBAR EN LOS LAVIOS   GARZON Y COLLAZOS3.mp3
@@ -4331,7 +4331,7 @@ VIVA LA FIESTA   GARZON Y COLLAZOS.mp3
 YA SE MURIO MI VIEJO   GARZON Y COLLAZOS.mp3
 YO TAMBIEN TUVE 20 A¥OS  -- MUSICA COLOMBIANA -- GARZON Y COLLA.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\GOLDEN BOYS
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\GOLDEN BOYS
 
 a tu vera- los golden boys -ORIGINAL.mp3
 cumbia de la chichera - los golden boys - cumbias porros y gaitas.mp3
@@ -4350,7 +4350,7 @@ Los Golden Boys -- Cumbia De La Mariguana.mp3
 LOS GOLDEN BOYS MOSAICO No 6.mp3
 LOS GOLDEN BOYS- El Pompo de las Vocales.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\GUILLERMO BUITRAGO
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\GUILLERMO BUITRAGO
 
 COMPAE HELIODORO   GUILLERMO BUITRAGO .mp3
 EL GRITO VAGABUNDO   GUILLERMO BUITRAGO .mp3
@@ -4364,7 +4364,7 @@ LAS MUJERES A MI NO ME QUIEREN   GUILLERMO BUITRAGO mp3.mp3
 LAS SABANAS DEL DILUVIO   GUILLERMO BUITRAGO .mp3
 RON DE VINOLA   GUILLERMO BUITRAGO .mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\GUSTAVO QUINTERO
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\GUSTAVO QUINTERO
 
 CAPULLO DE ROSA BLANCA   GUSTAVO QUINTERO CON LOS GRADUADOS .mp3
 FANTASIA NOCTURNA   GUSTAVO QUINTERO .mp3
@@ -4372,7 +4372,7 @@ LA MAESTRANZA   GUSTAVO QUINTERO .mp3
 MU¥EQUITA IBAGUERE¥A   GUSTAVO QUINTERO .mp3
 TAN BELLA Y TAN PRESUMIDA   GUSTAVO QUINTERO .mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\HERNA HERNANDEZ
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\HERNA HERNANDEZ
 
 001.EL TREN DEL ADIOS - HERNAN HERNANDEZ.mp3
 ADIOS AL AMOR - HERNAN HERNANDEZ.mp3
@@ -4397,7 +4397,7 @@ Hern n Hern ndez - Perversa 1985.mp3
 Pena por Ti - Hernan Hernandez.mp3
 triste despedida - Hernan hernandez.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\IVAN Y SUS BAM BAND
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\IVAN Y SUS BAM BAND
 
 FIESTA CON BILLOS.mp3    LA LOCURA CONTINUA.mp3   LA LOCURA DE HOY.mp3
 LA LOCURA REGRESO.mp3    LO GRANDE DE AYER.mp3    LO GRANDE DEL AYER.mp3
@@ -4405,7 +4405,7 @@ LOS CORAZONES.mp3        NAVIDAD 1.mp3            NAVIDAD 2.mp3
 PA' LA ARENOSA.mp3       VEN Y VERE.mp3           VUELVE Y JUEGA.mp3
 Y NO SE DETIENE.mp3      
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\JOE ARROYO
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\JOE ARROYO
 
 A MI DIOS TODO LE DEBO.mp3      CARA DE PAYASO.mp3
 ECHAO PA LANTE.mp3              EL AUSENTE.mp3
@@ -4422,7 +4422,7 @@ TANIA.mp3                       TRISTE LAMENTO.mp3
 TUMBATECHO.mp3                  YAMILEMAU.mp3
 YO.mp3                          
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\JUAN LUIS GUERRA
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\JUAN LUIS GUERRA
 
 APEDIR SU MANO.mp3                BACHATA EN FUKUOKA.mp3
 BENDITA TU LUZ.mp3                BURBUJAS DE AMOR.mp3
@@ -4436,7 +4436,7 @@ ME ENAMORO DE ELLA.mp3            OJALA QUE LLUEVA CAF.mp3
 PALOMITA BLANCA.mp3               QUE BENDICION.mp3
 TE REGALO UNA ROSA.mp3            WOMAN DEL CALLAO.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LA SONORA MATANCERA
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LA SONORA MATANCERA
 
 Aguinaldo Antillano - La Sonora Matancera.mp3
 Ave Maria Lola - Nelson Pinedo.mp3
@@ -4467,7 +4467,7 @@ Nelson Pinedo y la Sonora Matancera - El Ermita¤o.mp3
 Nelson Pinedo y La Sonora Matancera - Me Voy paï la Habana.mp3
 Vamos Pa'l Campo - La Sonora Matancera.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LATIN BROTHERS
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LATIN BROTHERS
 
 A La Loma De La Cruz - The Latin Brothers.mp3
 Baho Kende - Piper Pimienta.mp3
@@ -4492,7 +4492,7 @@ The Latin Brothers Dale Al Bombo.mp3
 the latin brothers-carcelero dame ya.mp3
 Tonterias Latin Brothers.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS 50 DE JOSELITO
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS 50 DE JOSELITO
 
 0000000000000000000000000001.CUERPO COBARDE-JB MUSIC LO MEJOR...!.mp3
 000000000000000000000000001.JOSEITO ESPA¥OL-JB MUSIC LO MEJOR...!.mp3
@@ -4588,7 +4588,7 @@ Tonterias Latin Brothers.mp3
 56 La Negra Celina.mp3
 57 El Diario De Un Crudo.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS 8 DE COLOMBIA
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS 8 DE COLOMBIA
 
 Adiv¡nalo- Los 8 de Colombia.mp3
 Compadre Ely Los 8 De Colombia.mp3
@@ -4607,12 +4607,12 @@ Que Rico Seria - Los Ocho de Colombia.mp3
 Si me dejaras - Los Ocho de Colombia.mp3
 Tritriqui tritraca Los ocho de Colombia.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS ALEGRES VALLENATOS
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS ALEGRES VALLENATOS
 
 LA COLEGIALA   JULIO TORRES Y LOS ALEGRES VALLENATOS .mp3
 POMPONIO - LOS ALEGRES VALLENATOS.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS ALFA 8
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS ALFA 8
 
 Al rojo vivo - Los Alfa 8 (letra).mp3
 alfa 8 - no te enamores.mp3
@@ -4626,7 +4626,7 @@ Los Alfa 8 La Orquesta - Tu y Yo.mp3
 Los Alfa 8-No Quiero Tu Amor.mp3
 Tu due¤o - Alfa 8 La Orquesta.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS BLANCO DE VENEZULEA
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS BLANCO DE VENEZULEA
 
 CORAZON DE PIEDRA -LOS BLANCO DE VENEZUELA.mp3
 KARLOZ - OTRA NOCHE DE ILUSION - LOS BLANCO DE VENEZUELA.mp3
@@ -4649,7 +4649,7 @@ Siguiendo el ritmo - Los Blanco de Venezuela.mp3
 Te Olvid‚ - Los Blanco De Venezuela.mp3
 Tu Traici¢n- Los Blanco De Venezuela.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS GRADUADOS
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS GRADUADOS
 
 Caminito De Mi Ausencia - Gustavo Quintero  El Loko  - Los Graduados.mp3
 Capullo de Rosa Blanca - Los Graduados Gustavo Quintero.mp3
@@ -4676,14 +4676,14 @@ Saguita Al Bate - Gustavo  El Loko  Quintero - Los Graduados.mp3
 SE CASO DRACULA - GUSTAVO QUINTERO con LOS GRADUADOS.mp3
 Una Flor Para Mascar - Gustavo Quintero El Loco - Los Graduados.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS HERMANOS MEDINA
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS HERMANOS MEDINA
 
 A ESCONDIDAS.mp3           AMANTES.mp3
 ENAMORADO.mp3              ESTADO CIVIL AMANTES.mp3
 LLORA POR AMOR.mp3         POR PRIMERA VEZ.mp3
 QUEDATE CON EL.mp3         SOMOS PROHIBIDOS.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS HISPANOS
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS HISPANOS
 
 ADIOS ADIOS CORAZON.mp3
 ADONAY.mp3
@@ -4797,7 +4797,7 @@ YA PARA QUE.mp3
 YA SE MARCHO.mp3
 YO NO FUI.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS MELODICOS
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS MELODICOS
 
 000001MI CORAZON NENE(LOS MELODICOS)CON LETRA.mp3
 00001.Zumbalo - Liz con Los Mel¢dicos ( M£sica de los 80-90 ).mp3
@@ -4826,7 +4826,7 @@ T£ - Los Mel¢dicos ( M£sica de los 80-90 ).mp3
 Ule ule - Diveana con Los Mel¢dicos ( M£sica de los 80-90 ).mp3
 Y sigue el traca - Los Mel¢dicos ( M£sica de los 80-90 ).mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS TEEN AGERS
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS TEEN AGERS
 
 al amanecer los teen agers y gustavo quintero.mp3
 Color de arena - Gustavo Quintero con Los Teen Agers.mp3
@@ -4850,7 +4850,7 @@ Los Teenagers  Chevere Que Chevere .mp3
 MOSAICO BOLEROS Y CHARANGAS - GUSTAVO QUINTERO CON LOS TEEN AGERS - 1963.mp3
 salsa - los teen agers - el conjunto llego.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS TUPAMAROS
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LOS TUPAMAROS
 
 001 El Baile de la Colita.mp3
 002 LOS SOLTEROS.mp3
@@ -4933,7 +4933,7 @@ salsa - los teen agers - el conjunto llego.mp3
 079 A LO OSCURO.mp3
 080 MI GRAN LOCO Y DULCE AMOR.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LUIS FELIPE GONZALEZ
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\LUIS FELIPE GONZALEZ
 
 Cancion del viajero-Nelson y sus estrellas.mp3
 FANTASIA LATINA-NELSON Y SUS ESTRELLAS.mp3
@@ -4956,7 +4956,7 @@ NELSON Y SUS ESTRELLAS.- EL FORASTERO.mp3
 NELSON Y SUS ESTRELLAS.- EL PORRO EN VENEZUELA.- Porro - Victor Liendo.mp3
 Para ti Cale¤a - Nelson y sus Estrellas.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\MAMBO PA AZOTAR BALDOZA
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\MAMBO PA AZOTAR BALDOZA
 
 Caravan Mambo Tito Puente.mp3
 Chino - TITO PUENTE.mp3
@@ -4987,7 +4987,7 @@ Tito Puente and Mongo Santamaria -- Four Beat Mambo.mp3
 Tito Puente Hong Kong Mambo ( 1958 ) .mp3
 TITO PUENTE VARSITY DRAG MAMBO.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\MARQUA Y SU COMBO
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\MARQUA Y SU COMBO
 
 05 - EL LIBRITO- MARQUA Y SU COMBO.mp3
 Apasionada (Cumbia) - Marqu  y su combo.mp3
@@ -5012,7 +5012,7 @@ NO JUEGUES CON MI CARI¥O MARQUA Y SU COMBO.mp3
 POR QUE SE FUE DE MARQUA Y SU COMBO).mp3
 TU REGRESO.DE MARQUA Y SU COMBO.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\MATECA¥A
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\MATECA¥A
 
 000.Un ratico no m s - Orquesta Mateca¤a-JB MUSIC LO MEJOR...INSUPERABLE!.mp3
 001.no te voy a olvidar-JB MUSIC LO MEJOR...!.mp3
@@ -5096,7 +5096,7 @@ TU REGRESO.DE MARQUA Y SU COMBO.mp3
 079.Vaquera-JB MUSIC LO MEJOR...!.mp3
 080.mateca¤a hechizera-JB MUSIC LO MEJOR...!.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\MERENGUES CLASICOS
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\MERENGUES CLASICOS
 
 005 nuestro amor.mp3
 006 a tu medida.mp3
@@ -5195,7 +5195,7 @@ TE COMPRO TU NOVIA.mp3
 TE VOY HACER FALTA.mp3
 ZA ZA ZA.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\NELSON HENRIQUEZ
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\NELSON HENRIQUEZ
 
 001  bayon de madrid.MP3
 003 uno para todos.MP3
@@ -5256,7 +5256,7 @@ LA VENEZOLANA   NELSON HENRIQUEZ .mp3
 LAGRIMAS DE ESCARCHA   PASTOR LOPEZ .mp3
 QUISIERA Y NO QUISIERA   NELSON HENRIQUEZ .mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\NELSON Y SUS ESTRELLAS
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\NELSON Y SUS ESTRELLAS
 
 A La Caseta - Nelson y Sus Estrellas.mp3
 Amor Serrano Nelson Y Sus Estrellas.mp3
@@ -5279,7 +5279,7 @@ NELSON Y SUS ESTRELLAS.- EL RITMO DE ALLA.mp3
 NELSON Y SUS ESTRELLAS.- QUEDATE CON TU MUJER.mp3
 Ven caraque¤a NELSON Y SUS ESTRELLAS.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\NOEL PETRO
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\NOEL PETRO
 
 001Ya voy hacia ti - NOEL PETRO.mp3
 002LA ARA¥A - NOEL PETRO.mp3
@@ -5342,7 +5342,7 @@ Ven caraque¤a NELSON Y SUS ESTRELLAS.mp3
 059Quiero Olvidar - NOEL PETRO.mp3
 060Las Calles De Madrid - NOEL PETRO.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\PARRANDERA
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\PARRANDERA
 
 ANDO POR LA PLAYA    ,LOS ALEGRES DEL GUAVIO,JUANMENDIVELSOMR.mp3
 DE FLOR EN FLOR    LOS LAURELES DEL SUR - Canal oficial Youtube.mp3
@@ -5357,7 +5357,7 @@ MOSAICO .mp3
 MUJER BONITA . BRISAS DEL NORTE.mp3
 QUE SIGA LA FIESTA    LOS ALEGRES DEL ORIENTE,,,JUANMENDIVELSOMR.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\PASTOR LOPEZ
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\PASTOR LOPEZ
 
 004- LAS CALENAS.mp3                005- EL HIJO AUSENTE.mp3
 006- BRISAS DEL VALLE.mp3           007- LLORO MI CORAZON.mp3
@@ -5407,7 +5407,7 @@ TIENES QUE REGRESAR.mp3             TOROS Y CORRALEJA.mp3
 TRAICIONAERA.mp3                    VUELVE AL NIDO PALOMA.mp3
 YOLANDA.mp3                         
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\RAFAEL OROZCO
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\RAFAEL OROZCO
 
 A¥ORANZAS - RAFAEL OROZCO (LETRA).mp3
 Campana - Rafael Orozco (Letra).mp3
@@ -5439,7 +5439,7 @@ Rafael Orozco Cha Cun Cha.mp3
 Relicario de besos - Rafael Orozco (Letra).mp3
 Sombra perdida - Rafael Orozco (Letra).mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\REALES BRASS
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\REALES BRASS
 
 AMANECER DE CUMBIA.mp3
 CANDILEJAS - REALES BRAS.mp3
@@ -5454,7 +5454,7 @@ Los Reales Brass-Cumbia Guepaje.mp3
 reales brass de colombia - no sabe amar.mp3
 Reales Class - Dos Corazones Rompio.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\RIKARENA
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\RIKARENA
 
 001. ERA MENTIRA - RIKARENA .mp3
 004. LICOR - RIKARENA .mp3
@@ -5519,14 +5519,14 @@ CUTIBILI PACHA.mp3
 NO PUEDO OLVIDARLA.mp3
 RIKARENA MIX.mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\ROMULO CAICEDO
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\ROMULO CAICEDO
 
 JARDINERA DE OJOS NEGROS   ROMULO CAICEDO .mp3
 MUJER TRAIDORA   ROMULO CAICEDO  (Version Original).mp3
 PAJARILLO CARAQUE¥O   ROMULO CAICEDO .mp3
 VEN PAJARILLO   ROMULO CAICEDO .mp3
 
-# Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\SALSA BRAVA
+## Directorio de E:\MUSICA-GENERAL\24-VIEJOTK\SALSA BRAVA
 
 AHOERA ME DA PENA.mp3                AHORA YO ME RIO.mp3
 BORINQUEN TIENE MONTUNO.mp3          DIGO YO.mp3
@@ -5817,18 +5817,18 @@ MUJER TIRANA.mp3                      POR LA PLATA BAILA EL MONO.mp3
 QUE SERA LO QUE QUIERE EL NEGRO.mp3   QUE SERA.mp3
 VOLVERE.mp3                           WILFRIDO DAME UN CONCEJO.mp3
 
-# Directorio de E:\MUSICA-GENERAL\49-LLANERA
+## Directorio de E:\MUSICA-GENERAL\49-LLANERA
 
 AY MI LLANURA   ARNULFO BRICE¥O .mp3    AY SI SI   LUIS ARIEL REY.mp3
 GUAYABO NEGRO    LUIS ARIEL REY  .mp3   ROMANCE QUINCEA¥ERO.mp3
 
-# Directorio de E:\MUSICA-GENERAL\50-REFLEXIONES
+## Directorio de E:\MUSICA-GENERAL\50-REFLEXIONES
 
 vodes - Track 1.mp3    vodes - Track 11.mp3   vodes - Track 12.mp3
 vodes - Track 13.mp3   vodes - Track 14.mp3   vodes - Track 2.mp3
 vodes - Track 4.mp3    vodes - Track 6.mp3    vodes - Track 8.mp3
 
-# Directorio de E:\MUSICA-GENERAL\51-CATOLICA
+## Directorio de E:\MUSICA-GENERAL\51-CATOLICA
 
 03 Pista 3.mp3
 05 Pista 5.mp3
@@ -5841,5 +5841,5 @@ LA GUADALUPANA   PADRE AICARDO .mp3
 NO ME VOY DE TI    NANCY RAMIREZ .mp3
 QUIEN SOY YO   FELIX PIMENTEL..mp3
 
-#     Total de archivos en la lista:
+##     Total de archivos en la lista:
 5676 archivos 
