@@ -15,9 +15,10 @@
         </tr>
     </tbody>
 </table>
+<table>
     <thead>
         <tr>
-            <th>
+            <th colspan="4">
                 ### Directorio de E:\MUSICA-GENERAL\01-FECHAS ESPECIALES
             </th>
         </tr>
@@ -28,14 +29,20 @@
             <td>- DE NI¥A A MUJER- JULIO JARAMILLO.mp3</td>
             <td>- EN MI CUMPLEA¥OS - HUGO BLANCO.mp3</td>
             <td>- FELIZ CUMPLEA¥OS - RAY PEREZ.mp3</td>
+        </tr> 
+        <tr> 
             <td>- HAPPY BIRTHDAY.mp3</td>
             <td>- LA PI¥ATA.mp3</td>
             <td>- LAS MA¥ANITAS MEXICANAS.mp3</td>
             <td>- MARCHA NUPCIAL.mp3</td>
+        </tr> 
+        <tr> 
             <td>- PAR DE ANILLOS.mp3</td>
             <td>- QUE DIOS TE BENDIGA - PETER MANJARRES.mp3</td>
             <td>- QUE VIVAN LOS NOVIOS.mp3</td>
             <td>- QUINCE A¥OS.mp3</td>
+        </tr> 
+        <tr> 
             <td>- QUINCE PRIMAVERAS.mp3</td>
             <td>- TIEMPO DE VALLS.mp3</td>
             <td>- TU CUMPLEA¥OS.mp3</td>
@@ -43,7 +50,6 @@
         </tr>
     </tbody>
 </table>
-
 
 ###  MUSICA GENERAL
 ###  Directorio de E:\MUSICA-GENERAL
