@@ -1,53 +1,47 @@
 ###  MUSICA GENERAL
 <table>
-    <thead>
-        <tr>
-            <th colspan="3">
-                Directorio de E:\MUSICA-GENERAL
-            </th>
-        </tr>
-    </thead>
+    <thead><tr><th colspan="3">Directorio de E:\MUSICA-GENERAL</th></tr></thead>
     <tbody>
-        <tr>
-            <td align="center">ME-PROVOCAS-1H.mp3</td>
-            <td align="center">R2 Text A</td>
-            <td align="center">R3 Text A</td>
-        </tr>
+        <tr><td align="center">ME-PROVOCAS-1H.mp3</td><td align="center">R2 Text A</td><td align="center">R3 Text A</td></tr>
+    </tbody>
+</table>
+<table>
+    <thead><tr><th colspan="4">Directorio de E:\MUSICA-GENERAL\01-FECHAS ESPECIALES</th></tr></thead>
+    <tbody>
+        <tr><td>CUMPLEA¥OS FELIZ.mp3</td><td>DE NI¥A A MUJER- JULIO JARAMILLO.mp3</td><td>EN MI CUMPLEA¥OS - HUGO BLANCO.mp3</td><td>FELIZ CUMPLEA¥OS - RAY PEREZ.mp3</td></tr> 
+        <tr> <td>HAPPY BIRTHDAY.mp3</td><td>LA PI¥ATA.mp3</td><td>LAS MA¥ANITAS MEXICANAS.mp3</td><td>MARCHA NUPCIAL.mp3</td></tr> 
+        <tr> <td>PAR DE ANILLOS.mp3</td><td>QUE DIOS TE BENDIGA - PETER MANJARRES.mp3</td><td>QUE VIVAN LOS NOVIOS.mp3</td><td>QUINCE A¥OS.mp3</td></tr> 
+        <tr> <td>QUINCE PRIMAVERAS.mp3</td><td>TIEMPO DE VALLS.mp3</td><td>TU CUMPLEA¥OS.mp3</td><td>VALLS - DANUBIO AZUL.mp3</td></tr>
     </tbody>
 </table>
 <table>
     <thead>
         <tr>
             <th colspan="4">
-                Directorio de E:\MUSICA-GENERAL\01-FECHAS ESPECIALES
+                Directorio de E:\MUSICA-GENERAL\02-BACHATA
             </th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>CUMPLEA¥OS FELIZ.mp3</td>
-            <td>DE NI¥A A MUJER- JULIO JARAMILLO.mp3</td>
-            <td>EN MI CUMPLEA¥OS - HUGO BLANCO.mp3</td>
-            <td>FELIZ CUMPLEA¥OS - RAY PEREZ.mp3</td>
-        </tr> 
-        <tr> 
-            <td>HAPPY BIRTHDAY.mp3</td>
-            <td>LA PI¥ATA.mp3</td>
-            <td>LAS MA¥ANITAS MEXICANAS.mp3</td>
-            <td>MARCHA NUPCIAL.mp3</td>
-        </tr> 
-        <tr> 
-            <td>PAR DE ANILLOS.mp3</td>
-            <td>QUE DIOS TE BENDIGA - PETER MANJARRES.mp3</td>
-            <td>QUE VIVAN LOS NOVIOS.mp3</td>
-            <td>QUINCE A¥OS.mp3</td>
-        </tr> 
-        <tr> 
-            <td>QUINCE PRIMAVERAS.mp3</td>
-            <td>TIEMPO DE VALLS.mp3</td>
-            <td>TU CUMPLEA¥OS.mp3</td>
-            <td>VALLS - DANUBIO AZUL.mp3</td>
-        </tr>
+        <tr> <td>ABUELITA.mp3</td><td>AMANTES.mp3</td><td>AMOR DE FICCION.mp3</td><td>AMOR DE MADRE.mp3</td></tr> 
+        <tr> <td>AMOR PROHIBIDO.mp3</td><td>AMORES COMO EL TUYO.mp3</td><td>ANGELITO.mp3</td><td>AQUEL IDIOTA.mp3</td></tr> 
+        <tr> <td>ATEO.mp3</td><td>BACHATA EN FUKUOKA.mp3</td><td>BACHATA MIX.mp3</td><td>BELLA Y SENSUAL.mp3</td></tr> 
+        <tr> <td>BURBUJAS DE AMOR.mp3</td><td>CARMIN.mp3</td><td>CENTAVITO.mp3</td><td>CUANDO SE PIERDE UN AMOR.mp3</td></tr>
+        <tr> <td>DARTE UN BESO.mp3</td><td>DEPRECION.mp3</td><td>DILE AL AMOR.mp3</td><td>DILE.mp3</td></tr>
+        <tr> <td>EL ABORTO.mp3</td><td>EL BESO.mp3</td><td>EL CLAVO.mp3</td><td>EL DESPERCIO.mp3</td></tr>
+        <tr> <td>EL MALO.mp3</td><td>EL PERDEDOR.mp3</td><td>ENSE¥AME A OLVIDAR.mp3</td><td>ERES MIA.mp3</td></tr>
+        <tr> <td>ESTRELLITAS Y DUENDES.mp3</td><td>HERMANITA.mp3</td><td>HEROE FAVORITO.mp3</td><td>HILITO.mp3</td></tr>
+        <tr> <td>I AM SORRY.mp3</td><td>INOCENTE.mp3</td><td>LA BACHATA.mp3</td><td>LA BODA.mp3</td></tr>
+        <tr> <td>LA CARCEL DEL DOLOR.mp3</td><td>LA CURITA.mp3</td><td>LA GUERRA .mp3</td><td>LA LLAVE DE MI CORAZON.mp3</td></tr>
+        <tr> <td>LA NI¥A.mp3</td><td>LA TORMENTA.mp3</td><td>LA ULTIMA NOCHE.mp3</td><td>LAGRIMAS.mp3</td></tr>
+        <tr> <td>LAO A LAO.mp3</td><td>LLEVAME CONTIGO.mp3</td><td>LLORAR.mp3</td><td>LOS INFIELES.mp3</td></tr>
+        <tr> <td>ME VOY DE CASA.mp3</td><td>MI CORAZONCITO.mp3</td><td>MI NI¥A CAMBIO.mp3</td><td>MI SANTA.mp3</td></tr>
+        <tr> <td>NO NO NO.mp3</td><td>POR UN SEGUNDO.mp3</td><td>PRINCESITA.mp3</td><td>PROPUESTA INDECENTE.mp3</td></tr>
+        <tr> <td>QUE SE MUERAN.mp3</td><td>QUE TONTOS QUE LOCOS.mp3</td><td>QUIEN TE CAMBIO.mp3</td><td>ROMEO Y JULIETA .mp3</td></tr>
+        <tr> <td>SOBERBIO.mp3</td><td>SOBRESOSIS.mp3</td><td>SOLO ME FALTAS TU.mp3</td><td>SOLO.mp3</td></tr>
+        <tr> <td>SOY HOMBRE.mp3</td><td>SOY UN POBRE DIABLO.mp3</td><td>SU VENENO.mp3</td><td>SUSPIRAS DE AMOR.mp3</td></tr>
+        <tr> <td>TE INVITO A HACER EL AMOR.mp3</td><td>TODAVIA ME AMAS.mp3</td><td>TU JUEGUITO.mp3</td><td>TU SIN MI, YO SIN TI.mp3</td></tr>
+        <tr> <td>VALE LA PENA EL PLACER.mp3</td><td>YO QUISIERA AMARLA.mp3</td></tr>
     </tbody>
 </table>
 
