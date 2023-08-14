@@ -2,7 +2,7 @@
 <table>
     <thead>
         <tr>
-            <th colspab="3">
+            <th colspan="3">
                 ###  Directorio de E:\MUSICA-GENERAL
             </th>
         </tr>
@@ -15,7 +15,6 @@
         </tr>
     </tbody>
 </table>
-<table>
     <thead>
         <tr>
             <th>
