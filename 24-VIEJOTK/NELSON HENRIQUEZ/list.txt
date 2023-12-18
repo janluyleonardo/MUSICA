@@ -1,0 +1,68 @@
+ El volumen de la unidad E es MORENO-2
+ El n£mero de serie del volumen es: 7665-F43B
+
+ Directorio de E:\MUSICA-GENERAL\VIEJOTK\NELSON HENRIQUEZ
+
+001  bayon de madrid.MP3
+003 uno para todos.MP3
+005 festival vallenato.mp3
+007   muchacha de 15.MP3
+009  a medellin.MP3
+011  mosaico, no 5- quizas,quizas.MP3
+013   culalquiera va.MP3
+015  la mision de rafael.MP3
+017 la hamaca raya.MP3
+019  qusiera y no quisera.MP3
+021 mi vieja barranquilla.MP3
+023  playa colora.MP3
+025 espiga de amapolas.MP3
+027  la cometa.MP3
+029 nube viajera.MP3
+031  el padrino.MP3
+033  OYE MORENITA.mp3
+035   amarrate la cinta.MP3
+037 TIENES QUE REGRESAR.mp3
+039 LA ARA¥ITA.mp3
+041 EL PLEBEYO.mp3
+042  AY COMPA.mp3
+044   mosaico no 4.la yagua.MP3
+046  EL DESAUHUCIADO.mp3
+048  LA BATEA.mp3
+050 - LA BOGOTANA.mp3
+052 NUESTRO ANILLITO.mp3
+054 EL AUSENTE.mp3
+056 BRISAS DEL VALLE.mp3
+058 DIOS TE VENDIGA HELENA.mp3
+060 TERNURA.mp3
+062 Amarga  Copa  . Pastor Lopez ..mp3
+064 DESILUSION  -- P. LOPEZ.mp3
+066 GUARILAQUE N. 1 -- P. LOPEZ ..mp3
+068 GUARILAQUE N. 2.mp3
+070 LAGRIMAS DE ESCARCHA . P . LOPEZ.mp3
+072 LLORO Y  LLORO -P. LOPEZ ..mp3
+074 MAS QUE UN LOCO -- P. LOPEZ ..mp3
+076 negro parrandero , pastor.mp3
+078 NO ME FALLES CORAZON . P . LOPEZ ..mp3
+080 NUBE  VIAJERA , P. LOPEZ.mp3
+082 POR  FAVOR OLVIDAME - P. LOPEZ ..mp3
+084 recuerdos del festival.mp3
+086 BRISAS  DEL FESTIVAL.mp3
+088 CALLATE ORAZON.mp3
+090 EL ECO DE TU ADIOS.mp3
+092 DIOS TE BENDIGA HELENA.mp3
+094 CORAZON APASIONADO.mp3
+096 mosaico n 1.mp3
+098 LA ESPINITA.mp3
+100  AMOR Y LLANTO.mp3
+A MEDELLIN   NELSON HENRIQUEZ  .mp3
+CUALQUIERA VA   NELSON HENRIQUEZ  .mp3
+EL PERGAMINO   NELSON HENRIQUEZ .mp3
+EL-BAHION-DE-MADRID.-NELSON-ENRRIQUEZ.mp3
+LA VENEZOLANA   NELSON HENRIQUEZ .mp3
+LAGRIMAS DE ESCARCHA   PASTOR LOPEZ .mp3
+QUISIERA Y NO QUISIERA   NELSON HENRIQUEZ .mp3
+              58 archivos     86.156.170 bytes
+
+     Total de archivos en la lista:
+              58 archivos     86.156.170 bytes
+               0 dirs  247.754.944.512 bytes libres
