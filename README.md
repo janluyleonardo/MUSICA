@@ -197,137 +197,174 @@
 > * TE QUIERO TE AMO.mp3         
 > * VETE CON EL.mp3
 > * VOLVERE.mp3                  
-               9 archivos      7.888.769 bytes
+>
+> 9 archivos      7.888.769 bytes
+>
+> 03-BOHEMIA\BALADAS DE LOS 60\BALADAS AMERICANAS
+> 
+> * ANGIE - The Rolling Stones.mp3
+> * BECAUSE I LOVE YOU - Steve.mp3
+> * ETERNAL FLAME.mp3
+> * EVERY THING I DO I DO IT FOR YOU - Brian Aadams.mp3
+> * SACRIFICE - Elton john.mp3
+> * TOTAL ECLIPSE OF THE EARTH - Bonnie Tiler.mp3
+> * UNCHANGED MELODY - The Righteous Brothers.mp3
+> * YESTERDAY - The Beatles.mp3
+> 
+> 8 archivos      8.630.751 bytes
+>
+> 03-BOHEMIA\BALADAS POP
+> 
+> * DE VENUS.mp3                 
+> * ELLA ES MI FIESTA.mp3
+> * ENTRE TU Y MIL MARES.mp3     
+> * ESTAR CONTIGO.mp3
+> * JUNTOS.mp3                   
+> * MI VERDAD.mp3
+> * QUERIDA.mp3                  
+> * UNA HISTORIA DIFERENTE.mp3
+> 
+> 8 archivos      7.892.337 bytes
+>
+> 03-BOHEMIA\BOLEROS
+>
+> * BUSCO TU RECUERDO.mp3   
+> * COPAS Y AMIGOS.MP3      
+> * HOLA SOLEDAD.mp3
+> * NEGRURA.mp3             
+> * POR DOS CAMINOS.mp3     
+> * POR QUE AHORA.mp3
+> * SEPARACION.mp3          
+> * TU SABES.mp3            
+> 8 archivos      5.462.359 bytes
+>
+> 03-BOHEMIA\ROMANTICA
+>
+> * AMOR DE ESTUDIANTE .mp3              
+> * CORAZON MAGICO .mp3
+> * DARIA CUALQUIER COSA.mp3             
+> * EL AMOR DE MI VIDA.mp3
+> * ELLA SE LLAMABA MARTHA.mp3           
+> * HOY CORTE UNA FLOR .mp3
+> * MORIR DE AMOR.mp3                    
+> * MUCHACHITA.mp3
+> * OH CUANTO TE AMO .mp3                
+> * PALABRITAS.mp3
+> * PEQUE¥A Y  FRAGIL.mp3                
+> * POR UN CAMINITO.mp3
+> * PORQUE TE VAS.mp3                    
+> * QUE HERMOSA NOCHE.mp3
+> * QUERERTE A TI.mp3                    
+> * SE COMO DUELE.mp3
+> * SERA PORQUE TE AMO.mp3               
+> * SOY REBELDE.mp3
+> * TE JURO QUE TE AMO.mp3               
+> * UN BESO Y UNA FLOR.mp3
+> * UNA LAGRIMA.mp3                      
+> * VINO GRIEGO.mp3
+> * VUELVO A VIVIR VUELVO A CANTAR.mp3   
+> 23 archivos     76.755.713 bytes
+>
+> 03-BOHEMIA\TANGOS
+>
+> * 001-Sangre maleva - ALFREDO ANGELIS.mp3
+> * 002-Agustin Irustra - Polvo de los caminos.mp3
+> * 003-Andres Falgas - La noche que me esperes.mp3
+> * 004-Armando Moreno - un tropezon.mp3
+> * 005-Enrique Rodriguez - Como se pierde la vida.mp3
+> * 006-Juan Carlos Godoy - Quien tiene tu amor.mp3
+> * 007-Lalo Martel - siempre amigos.mp3
+> * 008-Alfredo de Angelis - Obsesion.mp3
+> * 009-pibe Campos - Tu recuerdo me persigue.mp3
+> 
+> 9 archivos      5.787.196 bytes
 
- Directorio de E:\MUSICA\03-BOHEMIA\BALADAS DE LOS 60\BALADAS AMERICANAS
+> [!IMPORTANT]
+> 
+> 04-CARRANGA
+> 
+> * A GOZAR LA RUMBA   Los DOTORES de la carranga.mp3
+> * A QUIEN LE IMPORTA . Los Dotores de la Carranga.mp3
+> * CUANDO DECIDAS   LOS DOTORES DE LA CARRANGA.mp3
+> * EL CAMPESINO ALEGRE LOS FIESTEROS DE BOYACA   EL MEJOR CARRANGO   XITOS CARRANGUEROS.mp3
+> * El Negocio de Delfina - Los Dotores (Video Oficial).mp3
+> * EL SERMON DE MI MUJER - Los Dotores de la Carranga.mp3
+> * LA DEL GORILA - CARRANGA - EL TOCAYO VARGAS.mp3
+> * Los Dotores - El Maduro Duro (Video Oficial).mp3
+> * Los Dotores de la Carranga - Ahora que estoy vivo.mp3
+> * Los Dotores De La Carranga - Bella y bonita [Cover Audio].mp3
+> * Los Dotores De La Carranga - El de la viuda [Cover Audio].mp3
+> * Los Dotores De La Carranga - El Sinverguenza [Cover Audio].mp3
+> * Los Dotores De La Carranga - La Barrigona.mp3
+> * Los Dotores De La Carranga - La Estrellada [Cover Audio].mp3
+> * Los Dotores De La Carranga - M¡rala Como Anda.mp3
+> * Los Dotores de la Carranga - Se nos pasa el tiempo.mp3
+> * Ojitos Picarones - Son Guasquero.mp3
+> * PARA QUE LA PLATA   LOS DOTORES DE LA CARRANGA.mp3
+> * SUFRO SIN TI     los dotores de la carranga.mp3
+> * Video Musical   La Estrato 8 - Los Dotores de la Carranga.mp3
+> * VIVO DE MILAGRO - LOS DOTORES DE LA CARRANGA.mp3
+>
+> 21 archivos     75.403.096 bytes
 
-ANGIE - The Rolling Stones.mp3
-BECAUSE I LOVE YOU - Steve.mp3
-ETERNAL FLAME.mp3
-EVERY THING I DO I DO IT FOR YOU - Brian Aadams.mp3
-SACRIFICE - Elton john.mp3
-TOTAL ECLIPSE OF THE EARTH - Bonnie Tiler.mp3
-UNCHANGED MELODY - The Righteous Brothers.mp3
-YESTERDAY - The Beatles.mp3
-               8 archivos      8.630.751 bytes
+>[!IMPORTANT]
+>
+> 05-CLASICOS DEL ROCK
+> 
+> * 001-Boney M - Rasputin.mp3
+> * 003-Barrabas - On the road again.mp3
+> * 004-Erick Burdon - Tabaco road.mp3
+> * 005-Mc Hammer - U canït Touch this.mp3
+> * 006-Fine Young Cannibals - She Drives Me Crazy.mp3
+> * 007-Counting Crows - Mr. Jones.mp3
+> 6 archivos      6.307.761 bytes
 
- Directorio de E:\MUSICA\03-BOHEMIA\BALADAS POP
+>[!important]
+>
+> 06-DANCE TRANCE
+>
+> * DJ Bobo - EveryBody.mp3              
+> * Eurythmics - Sweet dreams.mp3
+> * HOW DO YOU DO.MP3                    
+> * LOVE FOR LOVE.mp3
+> * Sabrina - Boys.mp3                   
+> * Snap - Rythming is a dancer.mp3
+> * Technotronic - Move This.mp3         
+> * Technotronic - Pump Up The Jam.mp3
+> 8 archivos      8.002.812 bytes
 
-DE VENUS.mp3                 ELLA ES MI FIESTA.mp3
-ENTRE TU Y MIL MARES.mp3     ESTAR CONTIGO.mp3
-JUNTOS.mp3                   MI VERDAD.mp3
-QUERIDA.mp3                  UNA HISTORIA DIFERENTE.mp3
-               8 archivos      7.892.337 bytes
-
- Directorio de E:\MUSICA\03-BOHEMIA\BOLEROS
-
-BUSCO TU RECUERDO.mp3   COPAS Y AMIGOS.MP3      HOLA SOLEDAD.mp3
-NEGRURA.mp3             POR DOS CAMINOS.mp3     POR QUE AHORA.mp3
-SEPARACION.mp3          TU SABES.mp3            
-               8 archivos      5.462.359 bytes
-
- Directorio de E:\MUSICA\03-BOHEMIA\ROMANTICA
-
-AMOR DE ESTUDIANTE .mp3              CORAZON MAGICO .mp3
-DARIA CUALQUIER COSA.mp3             EL AMOR DE MI VIDA.mp3
-ELLA SE LLAMABA MARTHA.mp3           HOY CORTE UNA FLOR .mp3
-MORIR DE AMOR.mp3                    MUCHACHITA.mp3
-OH CUANTO TE AMO .mp3                PALABRITAS.mp3
-PEQUE¥A Y  FRAGIL.mp3                POR UN CAMINITO.mp3
-PORQUE TE VAS.mp3                    QUE HERMOSA NOCHE.mp3
-QUERERTE A TI.mp3                    SE COMO DUELE.mp3
-SERA PORQUE TE AMO.mp3               SOY REBELDE.mp3
-TE JURO QUE TE AMO.mp3               UN BESO Y UNA FLOR.mp3
-UNA LAGRIMA.mp3                      VINO GRIEGO.mp3
-VUELVO A VIVIR VUELVO A CANTAR.mp3   
-              23 archivos     76.755.713 bytes
-
- Directorio de E:\MUSICA\03-BOHEMIA\TANGOS
-
-001-Sangre maleva - ALFREDO ANGELIS.mp3
-002-Agustin Irustra - Polvo de los caminos.mp3
-003-Andres Falgas - La noche que me esperes.mp3
-004-Armando Moreno - un tropezon.mp3
-005-Enrique Rodriguez - Como se pierde la vida.mp3
-006-Juan Carlos Godoy - Quien tiene tu amor.mp3
-007-Lalo Martel - siempre amigos.mp3
-008-Alfredo de Angelis - Obsesion.mp3
-009-pibe Campos - Tu recuerdo me persigue.mp3
-               9 archivos      5.787.196 bytes
-
- Directorio de E:\MUSICA\04-CARRANGA
-
-A GOZAR LA RUMBA   Los DOTORES de la carranga.mp3
-A QUIEN LE IMPORTA . Los Dotores de la Carranga.mp3
-CUANDO DECIDAS   LOS DOTORES DE LA CARRANGA.mp3
-EL CAMPESINO ALEGRE LOS FIESTEROS DE BOYACA   EL MEJOR CARRANGO   XITOS CARRANGUEROS.mp3
-El Negocio de Delfina - Los Dotores (Video Oficial).mp3
-EL SERMON DE MI MUJER - Los Dotores de la Carranga.mp3
-LA DEL GORILA - CARRANGA - EL TOCAYO VARGAS.mp3
-Los Dotores - El Maduro Duro (Video Oficial).mp3
-Los Dotores de la Carranga - Ahora que estoy vivo.mp3
-Los Dotores De La Carranga - Bella y bonita [Cover Audio].mp3
-Los Dotores De La Carranga - El de la viuda [Cover Audio].mp3
-Los Dotores De La Carranga - El Sinverguenza [Cover Audio].mp3
-Los Dotores De La Carranga - La Barrigona.mp3
-Los Dotores De La Carranga - La Estrellada [Cover Audio].mp3
-Los Dotores De La Carranga - M¡rala Como Anda.mp3
-Los Dotores de la Carranga - Se nos pasa el tiempo.mp3
-Ojitos Picarones - Son Guasquero.mp3
-PARA QUE LA PLATA   LOS DOTORES DE LA CARRANGA.mp3
-SUFRO SIN TI     los dotores de la carranga.mp3
-Video Musical   La Estrato 8 - Los Dotores de la Carranga.mp3
-VIVO DE MILAGRO - LOS DOTORES DE LA CARRANGA.mp3
-              21 archivos     75.403.096 bytes
-
- Directorio de E:\MUSICA\05-CLASICOS DEL ROCK
-
-001-Boney M - Rasputin.mp3
-003-Barrabas - On the road again.mp3
-004-Erick Burdon - Tabaco road.mp3
-005-Mc Hammer - U canït Touch this.mp3
-006-Fine Young Cannibals - She Drives Me Crazy.mp3
-007-Counting Crows - Mr. Jones.mp3
-               6 archivos      6.307.761 bytes
-
- Directorio de E:\MUSICA\06-DANCE TRANCE
-
-DJ Bobo - EveryBody.mp3              Eurythmics - Sweet dreams.mp3
-HOW DO YOU DO.MP3                    LOVE FOR LOVE.mp3
-Sabrina - Boys.mp3                   Snap - Rythming is a dancer.mp3
-Technotronic - Move This.mp3         Technotronic - Pump Up The Jam.mp3
-               8 archivos      8.002.812 bytes
-
- Directorio de E:\MUSICA\07-ELECTRONICA
-
-ALETEO ZAPATEO.mp3
-ANIMALS.mp3
-BZRP - QUEVEDO.mp3
-DANCE MONKEY.mp3
-David Guetta & Chris Willis Feat. Fergie & LMFAO - Gettin Over You (Official Video).mp3
-David Guetta - Little Bad Girl ft. Taio Cruz, Ludacris (Official Video).mp3
-DISFRUTO.mp3
-ELLA YA ME OLVIDO.mp3
-Eurythmics, Annie Lennox, Dave Stewart - Sweet Dreams (Are Made Of This) (Official Video).mp3
-EYES (djvenga) La mejor m£sica electr¢nica.mp3
-FRAMED.mp3
-FREAK.mp3
-LA VIDA ES BONITA.mp3
-LMFAO - Champagne Showers ft. Natalia Kills.mp3
-ME PROVOCAS.mp3
-MIX GUARACHA 2020 (Fumaratto - Me provocas, Ense¤ame a So¤ar, Goloso, Se¤orita, Saxo sueltala).mp3
-PARTY ANIMAL.mp3
-PARTY ROCK ANTEM.mp3
-Project X Pursuit Of Happiness.mp3
-RATTLE.mp3
-Rihanna - Pon de Replay (Internet Version).mp3
-RISEANDO (djvenga) La mejor m£sica electr¢nica.mp3
-SAXO-SUELTALA.mp3
-SEXY AND I KNOW IT.mp3
-SHAPE OF YOU.mp3
-TREMOR.mp3
-TSUNAMI.mp3
-              27 archivos    207.218.188 bytes
+>[!IMPORTANT]
+>
+> 07-ELECTRONICA
+> 
+> * ALETEO ZAPATEO.mp3
+> * ANIMALS.mp3
+> * BZRP - QUEVEDO.mp3
+> * DANCE MONKEY.mp3
+> * David Guetta & Chris Willis Feat. Fergie & LMFAO - Gettin Over You (Official Video).mp3
+> * David Guetta - Little Bad Girl ft. Taio Cruz, Ludacris (Official Video).mp3
+> * DISFRUTO.mp3
+> * ELLA YA ME OLVIDO.mp3
+> * Eurythmics, Annie Lennox, Dave Stewart - Sweet Dreams (Are Made Of This) (Official Video).mp3
+> * EYES (djvenga) La mejor m£sica electr¢nica.mp3
+> * FRAMED.mp3
+> * FREAK.mp3
+> * LA VIDA ES BONITA.mp3
+> * LMFAO - Champagne Showers ft. Natalia Kills.mp3
+> * ME PROVOCAS.mp3
+> * MIX GUARACHA 2020 (Fumaratto - Me provocas, Ense¤ame a So¤ar, Goloso, Se¤orita, Saxo sueltala).mp3
+> * PARTY ANIMAL.mp3
+> * PARTY ROCK ANTEM.mp3
+> * Project X Pursuit Of Happiness.mp3
+> * RATTLE.mp3
+> * Rihanna - Pon de Replay (Internet Version).mp3
+> * RISEANDO (djvenga) La mejor m£sica electr¢nica.mp3
+> * SAXO-SUELTALA.mp3
+> * SEXY AND I KNOW IT.mp3
+> * SHAPE OF YOU.mp3
+> * TREMOR.mp3
+> * TSUNAMI.mp3
+>   27 archivos    207.218.188 bytes
 
  Directorio de E:\MUSICA\08-GUARACHA
 
