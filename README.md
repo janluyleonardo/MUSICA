@@ -364,241 +364,259 @@
 > * SHAPE OF YOU.mp3
 > * TREMOR.mp3
 > * TSUNAMI.mp3
+>
 >   27 archivos    207.218.188 bytes
 
- Directorio de E:\MUSICA\08-GUARACHA
+> [!IMPORTANT]
+>
+> 08-GUARACHA
+> 
+> * ALETEO ZAPATEO.mp3
+> * BAILA CON MIGO.mp3
+> * DIME QUIEN AMA DE VERDAD.mp3
+> * DONDE ESTAN LAS ATREVIDAS TOMA TOMA TOMA.mp3
+> * ESA MORENA.mp3
+> * LA VIDA ES BONITA-MIX.mp3
+> * LA VIDA ES BONITA.mp3
+> * Los µngeles Azules - Nunca Es Suficiente ft. Natalia Lafourcade (Live).mp3
+> * ME PROVOCAS.mp3
+> * MENEA TU CHAPA.mp3
+> * MUEVE LA POMPA.mp3
+> * OLHA A ESPLOSAO.mp3
+> * PRENDE LA CADERA.mp3
+> * SAX TO ME.mp3
+> * SAXO LATINO MIX.mp3
+> * Tµ TRANCADA.mp3
+> * VALLENATO PARRANDERO.mp3
+> * Viciosa - Valeria Vix  (Dj Berkin Remix) (Extended Version) old School 90s Classic House   ?--(MP3_160K).mp3
+>
+> * 18 archivos     91.093.265 bytes
 
-ALETEO ZAPATEO.mp3
-BAILA CON MIGO.mp3
-DIME QUIEN AMA DE VERDAD.mp3
-DONDE ESTAN LAS ATREVIDAS TOMA TOMA TOMA.mp3
-ESA MORENA.mp3
-LA VIDA ES BONITA-MIX.mp3
-LA VIDA ES BONITA.mp3
-Los µngeles Azules - Nunca Es Suficiente ft. Natalia Lafourcade (Live).mp3
-ME PROVOCAS.mp3
-MENEA TU CHAPA.mp3
-MUEVE LA POMPA.mp3
-OLHA A ESPLOSAO.mp3
-PRENDE LA CADERA.mp3
-SAX TO ME.mp3
-SAXO LATINO MIX.mp3
-Tµ TRANCADA.mp3
-VALLENATO PARRANDERO.mp3
-Viciosa - Valeria Vix  (Dj Berkin Remix) (Extended Version) old School 90s Classic House   ?--(MP3_160K).mp3
-              18 archivos     91.093.265 bytes
+>[!important]
+>
+> 09-HIPHOP
+> 
+> * 01 Candy Shop.mp3
+> * 01 Disco Inferno.mp3
+> * 02 arcangel feat tempo - maravilla - lmp.mp3
+> * 05 In da Club.mp3
+> * 19 ella se fue.mp3
+> * ALL THE WAY UP.mp3
+> * CARLITOS WAY.mp3
+> * Cosculluela - La Boda.mp3
+> * EL AMOR EXISTE.mp3
+> * EN ESTE MUNDO.mp3
+> * ESTOY AQUÖ.mp3
+> * La Bella Y La Bestia.mp3
+> * LINDA ESTRELLA.mp3
+> * ME ACUERDO.mp3
+> * TU SIN MI.mp3
+> * VASOS VACIOS.mp3
+> * ANGELES Y DEMONIOS.wma
+> * ORPHANIZATION.wma
+>
+> 18 archivos     88.409.039 bytes
 
- Directorio de E:\MUSICA\09-HIPHOP
+> [!IMPORTANT]
+>
+> 10-HORA LOCA
+>  
+> * AY CHAVELA.mp3
+> * COTTON EYE JOE.mp3
+> * GO PATO.mp3
+> * HORA LOCA -MIX1.mp3
+> * HORA LOCA MIX (Carrapicho, Asereje, Macarena, El gorila).mp3
+> * LA BOMBA.mp3
+> * MAGALENHA.mp3
+> * NADIE COMO TU - CALLE 13.mp3
+> * PACIFIC MIX.mp3
+> * REGGETON MIX - CLASICO.mp3
+> * REGGETON MIX.mp3
+> * YO TE QUIERO DAR.mp3
+>
+> 12 archivos     46.898.532 bytes
 
-01 Candy Shop.mp3
-01 Disco Inferno.mp3
-02 arcangel feat tempo - maravilla - lmp.mp3
-05 In da Club.mp3
-19 ella se fue.mp3
-ALL THE WAY UP.mp3
-CARLITOS WAY.mp3
-Cosculluela - La Boda.mp3
-EL AMOR EXISTE.mp3
-EN ESTE MUNDO.mp3
-ESTOY AQUÖ.mp3
-La Bella Y La Bestia.mp3
-LINDA ESTRELLA.mp3
-ME ACUERDO.mp3
-TU SIN MI.mp3
-VASOS VACIOS.mp3
-ANGELES Y DEMONIOS.wma
-ORPHANIZATION.wma
-              18 archivos     88.409.039 bytes
+>[!IMPORTANT]
+>
+> 11-INSTRUMENTAL
+> 
+> * 001-Richard Clayderman - Love Story.mp3
+> * 002-Alfredo Rolando Ortiz - Pajaro campana.mp3
+> * 003-Jean Claude Borelly - Exodus.mp3
+> * 006-Let it be.mp3
+> * 007-Jonnes Hammer - Tema de miami vice.mp3
+> * 008-Richard Clayderman - Ballade Pour Adeline.mp3
+> * 009-LOS SONIDOS DEL SILENCIO,EL GRAN FANTASTIC.mp3
+> 
+> 7 archivos      5.656.040 bytes
 
- Directorio de E:\MUSICA\10-HORA LOCA
+>[!IMPORTANT]
+>
+> 12-MERENGUE
+> 
+> * 005 nuestro amor.mp3
+> * 006 a tu medida.mp3
+> * 007 junto a tu corazon-miguel moli.mp3
+> * 009 la morena-los hnos rosario.mp3
+> * 016 UN AMOR.mp3
+> * 017 Carmela Linda.mp3
+> * 019 mar y luna.mp3
+> * 020 sufro por ese amor-tupamaros.mp3
+> * 023 mi peque¤o amor.mp3
+> * 024 muchacha triste.mp3
+> * 025 te vas y vuelves.mp3
+> * 029 lo hace la otra - sancocho.mp3
+> * 030 mariluna-pecos fans.mp3
+> * 032 la bilirubina-juan luis guerra.mp3
+> * 034 una fotografia-bony cepeda.mp3
+> * 035 mi corazon-los melodicos.mp3
+> * 036 noches de fantasias-roberto antonio.mp3
+> * 037 si algun dia la vez.mp3
+> * 038 las peque¤as cosas.mp3
+> * 039 cuarto de hotel-bonny cepeda.mp3
+> * 040 y siempre-carolina.mp3
+> * 041 noches de media luna-direna.mp3
+> * 042 zumbalo-los melodicos.mp3
+> * 044 lo que yo se.mp3
+> * 045 carmin.mp3
+> * 046 ella paso por aqui.mp3
+> * 048 hay amor-los melodicos.mp3
+> * 049 que cara mas bonita.mp3
+> * 050 ella dice.mp3
+> * 051 volvere.mp3
+> * 052. la quiero a morir.mp3
+> * 053 de amor y de miel-ibel.mp3
+> * 054 no es una novela - MONCHI Y ALEXANDRA.mp3
+> * 055 ay amor.mp3
+> * 056 enamorado de ella.mp3
+> * 057 a donde vallas-alex bueno.mp3
+> * 058 marejada-roberto antonio.mp3
+> * 059 asesina-bonny cepeda.mp3
+> * 060 cole-dra.mp3
+> * 062 buscando tus besos-rubi perez.mp3
+> * 063 amandote.mp3
+> * 064 saca la mano antonia.mp3
+> * 065 todo el mundo necesita un beso-melodicos.mp3
+> * 066 Dile - sergio vargas.mp3
+> * 068 dulcemente bella.mp3
+> * 069 COMO ABEJA AL PANAL - JUAN LUIS GUERRA.mp3
+> * 070 Fiebre-Tony Tun Tun.mp3
+> * 071 LASTIMA DE TANTO AMOR.mp3
+> * 075 SI TU TE VAS.mp3
+> * 076 UN HOMBRE BUSCA UNA MUJER.mp3
+> * 077 blanca - VICO C.mp3
+> * 078 La Quiero A Morir - sergio vargas.mp3
+> * 080 PEQUE¥AS COSAS-las chicas del can.mp3
+> * 082 Se Nos Fue El Amor----Rubby Perez.mp3
+> * 083 Huelepega.mp3
+> * 084 TU - JUAN LUIS GUERRA.mp3
+> * 085 DE TU BOCA.mp3
+> * 086 El Loco y la Luna - WILFRIDO VARGAS.mp3
+> * 088 EL NEGRO BEMBON.mp3
+> * 089 Amor De Lejos---Pochi Y Su Coco band.mp3
+> * 090 La Bocina-el Simbolo.mp3
+> * 093 El Telefono-Grupo Mania.mp3
+> * 099 ESA MORENA.mp3
+> * 100 Pegalo-sandy papo.mp3
+> * A DORMIR JUNTITOS.mp3
+> * ABUSADORA.mp3
+> * AYER TE LLAME.mp3
+> * BACHATA MERENGUE.mp3
+> * BAILE DEL SUA SUA.mp3
+> * BURBUJAS DE AMOR.mp3
+> * COGELE CONFIANZA.mp3
+> * COMO YO.mp3
+> * COMPRATE UN PERRO.mp3
+> * CUANDO EL AMOR SE DA¥A.mp3
+> * CUTIBILI PACHA.mp3
+> * EL AMOR QUE SO¥E.mp3
+> * EL BAILE DEL PERRITO.mp3
+> * EL CEPILLO.mp3
+> * EL CHICLE.mp3
+> * EL COMEJEN.mp3
+> * EL EXTRATERRESTRE.mp3
+> * EL GORILA.mp3
+> * EL HOMBRE DIVERTIDO.mp3
+> * EL IDIOTA.mp3
+> * EL JARDINERO.mp3
+> * EL MERENGAZO-GORILA.mp3
+> * EL MORENO ESTA.mp3
+> * EL ROMPÔCINTURA.mp3
+> * EL TIBURON.mp3
+> * EL TIGERON.mp3
+> * EL TIJERON.mp3
+> * EL VIRAO.mp3
+> * ELLA ES TAN BELLA.mp3
+> * ERA MENTIRA.mp3
+> * ERES AJENA.mp3
+> * ESA MORENA.mp3
+> * ESE DISCO SE RAYO.mp3
+> * ESTE DISCO SE RAYO.mp3
+> * FIN DE SEMANA.mp3
+> * GUAYANDO.mp3
+> * HAY UN HOYO.mp3
+> * LA BILIRRUBINA.mp3
+> * LA CINTURITA.mp3
+> * LA COQUILLITA.mp3
+> * LA DUE¥A DEL SWING.mp3
+> * LA FALDITA.mp3
+> * LA FLAK.mp3
+> * La Linea - Si me dejas no vale.mp3
+> * La Makina - Mi reina.mp3
+> * LA MORENA.mp3
+> * LA NALGADITA.mp3
+> * LA TANGUITA ROJA.mp3
+> * LA VACA.mp3
+> * LAS AVISPAS.mp3
+> * LE COMPRO SU NOVIA.mp3
+> * LICOR.mp3
+> * Los Cantantes - No Hay Pesos.mp3
+> * Los Melodicos - Zumbalo.mp3
+> * MALA MEMORIA.mp3
+> * MARIA SE FUE.mp3
+> * ME ENAMORO DE ELLA.mp3
+> * MI GRAN AMOR.mp3
+> * MI NI¥A BONITA.mp3
+> * MI TONTO AMOR.mp3
+> * MORENA VEN.mp3
+> * MOVIENDO LA CADERA.mp3
+> * NADIE SE MUERE.mp3
+> * NO HAY PESOS.mp3
+> * NO ME DIGAS QUE NO.mp3
+> * NO PUEDO OLVIDARLA.mp3
+> * NUESTRA CANCION.mp3
+> * NUNCA TE MENTI.mp3
+> * PATRULLA MIX.mp3
+> * PEGAME TU VIVIO.mp3
+> * PENAS AL VIENTO.mp3
+> * POR LA PLATA BAILA EL MONO.mp3
+> * Proyecto Uno - El grillero.mp3
+> * QUE SERA.mp3
+> * Ramon Orlando - No voy a volver a llorar.mp3
+> * Rikarena - Era Mentira.mp3
+> * RIKARENA MIX.mp3
+> * ROMPECINTURA.mp3
+> * SE ME FUE MI VIDA.mp3
+> * SE PARECE A TI.mp3
+> * SEPARADOS.mp3
+> * Sergio Vargas - Separados.mp3
+> * SI ME DEJAS NO VALE.mp3
+> * SUAVEMENTE.mp3
+> * SUE¥OS.mp3
+> * TA ENCENDIDO.mp3
+> * TE COMPRO TU NOVIA.mp3
+> * TE VOY HACER FALTA.mp3
+> * TU SONRISA.mp3
+> * UN HOMBRE BUSCA UNA MUJER.mp3
+> * UNA TARDE FUE.mp3
+> * WOMAN DEL CALLAO.mp3
+> * ZA ZA ZA.mp3
+> 
+> 157 archivos    429.241.319 bytes
 
-AY CHAVELA.mp3
-COTTON EYE JOE.mp3
-GO PATO.mp3
-HORA LOCA -MIX1.mp3
-HORA LOCA MIX (Carrapicho, Asereje, Macarena, El gorila).mp3
-LA BOMBA.mp3
-MAGALENHA.mp3
-NADIE COMO TU - CALLE 13.mp3
-PACIFIC MIX.mp3
-REGGETON MIX - CLASICO.mp3
-REGGETON MIX.mp3
-YO TE QUIERO DAR.mp3
-              12 archivos     46.898.532 bytes
-
- Directorio de E:\MUSICA\11-INSTRUMENTAL
-
-001-Richard Clayderman - Love Story.mp3
-002-Alfredo Rolando Ortiz - Pajaro campana.mp3
-003-Jean Claude Borelly - Exodus.mp3
-006-Let it be.mp3
-007-Jonnes Hammer - Tema de miami vice.mp3
-008-Richard Clayderman - Ballade Pour Adeline.mp3
-009-LOS SONIDOS DEL SILENCIO,EL GRAN FANTASTIC.mp3
-               7 archivos      5.656.040 bytes
-
- Directorio de E:\MUSICA\12-MERENGUE
-
-005 nuestro amor.mp3
-006 a tu medida.mp3
-007 junto a tu corazon-miguel moli.mp3
-009 la morena-los hnos rosario.mp3
-016 UN AMOR.mp3
-017 Carmela Linda.mp3
-019 mar y luna.mp3
-020 sufro por ese amor-tupamaros.mp3
-023 mi peque¤o amor.mp3
-024 muchacha triste.mp3
-025 te vas y vuelves.mp3
-029 lo hace la otra - sancocho.mp3
-030 mariluna-pecos fans.mp3
-032 la bilirubina-juan luis guerra.mp3
-034 una fotografia-bony cepeda.mp3
-035 mi corazon-los melodicos.mp3
-036 noches de fantasias-roberto antonio.mp3
-037 si algun dia la vez.mp3
-038 las peque¤as cosas.mp3
-039 cuarto de hotel-bonny cepeda.mp3
-040 y siempre-carolina.mp3
-041 noches de media luna-direna.mp3
-042 zumbalo-los melodicos.mp3
-044 lo que yo se.mp3
-045 carmin.mp3
-046 ella paso por aqui.mp3
-048 hay amor-los melodicos.mp3
-049 que cara mas bonita.mp3
-050 ella dice.mp3
-051 volvere.mp3
-052. la quiero a morir.mp3
-053 de amor y de miel-ibel.mp3
-054 no es una novela - MONCHI Y ALEXANDRA.mp3
-055 ay amor.mp3
-056 enamorado de ella.mp3
-057 a donde vallas-alex bueno.mp3
-058 marejada-roberto antonio.mp3
-059 asesina-bonny cepeda.mp3
-060 cole-dra.mp3
-062 buscando tus besos-rubi perez.mp3
-063 amandote.mp3
-064 saca la mano antonia.mp3
-065 todo el mundo necesita un beso-melodicos.mp3
-066 Dile - sergio vargas.mp3
-068 dulcemente bella.mp3
-069 COMO ABEJA AL PANAL - JUAN LUIS GUERRA.mp3
-070 Fiebre-Tony Tun Tun.mp3
-071 LASTIMA DE TANTO AMOR.mp3
-075 SI TU TE VAS.mp3
-076 UN HOMBRE BUSCA UNA MUJER.mp3
-077 blanca - VICO C.mp3
-078 La Quiero A Morir - sergio vargas.mp3
-080 PEQUE¥AS COSAS-las chicas del can.mp3
-082 Se Nos Fue El Amor----Rubby Perez.mp3
-083 Huelepega.mp3
-084 TU - JUAN LUIS GUERRA.mp3
-085 DE TU BOCA.mp3
-086 El Loco y la Luna - WILFRIDO VARGAS.mp3
-088 EL NEGRO BEMBON.mp3
-089 Amor De Lejos---Pochi Y Su Coco band.mp3
-090 La Bocina-el Simbolo.mp3
-093 El Telefono-Grupo Mania.mp3
-099 ESA MORENA.mp3
-100 Pegalo-sandy papo.mp3
-A DORMIR JUNTITOS.mp3
-ABUSADORA.mp3
-AYER TE LLAME.mp3
-BACHATA MERENGUE.mp3
-BAILE DEL SUA SUA.mp3
-BURBUJAS DE AMOR.mp3
-COGELE CONFIANZA.mp3
-COMO YO.mp3
-COMPRATE UN PERRO.mp3
-CUANDO EL AMOR SE DA¥A.mp3
-CUTIBILI PACHA.mp3
-EL AMOR QUE SO¥E.mp3
-EL BAILE DEL PERRITO.mp3
-EL CEPILLO.mp3
-EL CHICLE.mp3
-EL COMEJEN.mp3
-EL EXTRATERRESTRE.mp3
-EL GORILA.mp3
-EL HOMBRE DIVERTIDO.mp3
-EL IDIOTA.mp3
-EL JARDINERO.mp3
-EL MERENGAZO-GORILA.mp3
-EL MORENO ESTA.mp3
-EL ROMPÔCINTURA.mp3
-EL TIBURON.mp3
-EL TIGERON.mp3
-EL TIJERON.mp3
-EL VIRAO.mp3
-ELLA ES TAN BELLA.mp3
-ERA MENTIRA.mp3
-ERES AJENA.mp3
-ESA MORENA.mp3
-ESE DISCO SE RAYO.mp3
-ESTE DISCO SE RAYO.mp3
-FIN DE SEMANA.mp3
-GUAYANDO.mp3
-HAY UN HOYO.mp3
-LA BILIRRUBINA.mp3
-LA CINTURITA.mp3
-LA COQUILLITA.mp3
-LA DUE¥A DEL SWING.mp3
-LA FALDITA.mp3
-LA FLAK.mp3
-La Linea - Si me dejas no vale.mp3
-La Makina - Mi reina.mp3
-LA MORENA.mp3
-LA NALGADITA.mp3
-LA TANGUITA ROJA.mp3
-LA VACA.mp3
-LAS AVISPAS.mp3
-LE COMPRO SU NOVIA.mp3
-LICOR.mp3
-Los Cantantes - No Hay Pesos.mp3
-Los Melodicos - Zumbalo.mp3
-MALA MEMORIA.mp3
-MARIA SE FUE.mp3
-ME ENAMORO DE ELLA.mp3
-MI GRAN AMOR.mp3
-MI NI¥A BONITA.mp3
-MI TONTO AMOR.mp3
-MORENA VEN.mp3
-MOVIENDO LA CADERA.mp3
-NADIE SE MUERE.mp3
-NO HAY PESOS.mp3
-NO ME DIGAS QUE NO.mp3
-NO PUEDO OLVIDARLA.mp3
-NUESTRA CANCION.mp3
-NUNCA TE MENTI.mp3
-PATRULLA MIX.mp3
-PEGAME TU VIVIO.mp3
-PENAS AL VIENTO.mp3
-POR LA PLATA BAILA EL MONO.mp3
-Proyecto Uno - El grillero.mp3
-QUE SERA.mp3
-Ramon Orlando - No voy a volver a llorar.mp3
-Rikarena - Era Mentira.mp3
-RIKARENA MIX.mp3
-ROMPECINTURA.mp3
-SE ME FUE MI VIDA.mp3
-SE PARECE A TI.mp3
-SEPARADOS.mp3
-Sergio Vargas - Separados.mp3
-SI ME DEJAS NO VALE.mp3
-SUAVEMENTE.mp3
-SUE¥OS.mp3
-TA ENCENDIDO.mp3
-TE COMPRO TU NOVIA.mp3
-TE VOY HACER FALTA.mp3
-TU SONRISA.mp3
-UN HOMBRE BUSCA UNA MUJER.mp3
-UNA TARDE FUE.mp3
-WOMAN DEL CALLAO.mp3
-ZA ZA ZA.mp3
-             157 archivos    429.241.319 bytes
-
- Directorio de E:\MUSICA\13-REGGUETON
+>[!IMPORTANT]
+>
+> 13-REGGUETON
 
 200 Copas - KAROL G.mp3
 6 AM.mp3
