@@ -21,49 +21,86 @@
 > [!NOTE]
 > 16 archivos     14.881.011 bytes
 
-> [!TIP]
-> 
+> [!IMPORTANT]
+> 02-BACHATA
 
- Directorio de E:\MUSICA\02-BACHATA
+* ABUELITA.mp3                    
+* AMANTES.mp3
+* AMOR DE FICCION.mp3             
+* AMOR DE MADRE.mp3
+* AMOR PROHIBIDO.mp3              
+* AMORES COMO EL TUYO.mp3
+* ANGELITO.mp3                    
+* AQUEL IDIOTA.mp3
+* ATEO.mp3                        
+* BACHATA EN FUKUOKA.mp3
+* BACHATA MIX.mp3                 
+* BELLA Y SENSUAL.mp3
+* BURBUJAS DE AMOR.mp3            
+* CARMIN.mp3
+* CENTAVITO.mp3                   
+* CUANDO SE PIERDE UN AMOR.mp3
+* DARTE UN BESO.mp3               
+* DEPRECION.mp3
+* DILE AL AMOR.mp3                
+* DILE.mp3
+* EL ABORTO.mp3                   
+* EL BESO.mp3
+* EL CLAVO.mp3                    
+* EL DESPERCIO.mp3
+* EL MALO.mp3                     
+* EL PERDEDOR.mp3
+* ENSE¥AME A OLVIDAR.mp3          
+* ERES MIA.mp3
+* ESTRELLITAS Y DUENDES.mp3       
+* HERMANITA.mp3
+* HEROE FAVORITO.mp3              
+* HILITO.mp3
+* I AM SORRY.mp3                  
+* INOCENTE.mp3
+* LA BACHATA.mp3                  
+* LA BODA.mp3
+* LA CARCEL DEL DOLOR.mp3         
+* LA CURITA.mp3
+* LA GUERRA .mp3                  
+* LA LLAVE DE MI CORAZON.mp3
+* LA NI¥A.mp3                     
+* LA TORMENTA.mp3
+* LA ULTIMA NOCHE.mp3             
+* LAGRIMAS.mp3
+* LAO A LAO.mp3                   
+* LLEVAME CONTIGO.mp3
+* LLORAR.mp3                      
+* LOS INFIELES.mp3
+* ME VOY DE CASA.mp3              
+* MI CORAZONCITO.mp3
+* MI NI¥A CAMBIO.mp3              
+* MI SANTA.mp3
+* NO NO NO.mp3                    
+* POR UN SEGUNDO.mp3
+* PRINCESITA.mp3                  
+* PROPUESTA INDECENTE.mp3
+* QUE SE MUERAN.mp3               
+* QUE TONTOS QUE LOCOS.mp3
+* QUIEN TE CAMBIO.mp3             
+* ROMEO Y JULIETA .mp3
+* SOBERBIO.mp3                    
+* SOBRESOSIS.mp3
+* SOLO ME FALTAS TU.mp3           
+* SOLO.mp3
+* SOY HOMBRE.mp3                  
+* SOY UN POBRE DIABLO.mp3
+* SU VENENO.mp3                   
+* SUSPIRAS DE AMOR.mp3
+* TE INVITO A HACER EL AMOR.mp3   
+* TODAVIA ME AMAS.mp3
+* TU JUEGUITO.mp3                 
+* TU SIN MI, YO SIN TI.mp3
+* VALE LA PENA EL PLACER.mp3      
+* YO QUISIERA AMARLA.mp3
 
-ABUELITA.mp3                    AMANTES.mp3
-AMOR DE FICCION.mp3             AMOR DE MADRE.mp3
-AMOR PROHIBIDO.mp3              AMORES COMO EL TUYO.mp3
-ANGELITO.mp3                    AQUEL IDIOTA.mp3
-ATEO.mp3                        BACHATA EN FUKUOKA.mp3
-BACHATA MIX.mp3                 BELLA Y SENSUAL.mp3
-BURBUJAS DE AMOR.mp3            CARMIN.mp3
-CENTAVITO.mp3                   CUANDO SE PIERDE UN AMOR.mp3
-DARTE UN BESO.mp3               DEPRECION.mp3
-DILE AL AMOR.mp3                DILE.mp3
-EL ABORTO.mp3                   EL BESO.mp3
-EL CLAVO.mp3                    EL DESPERCIO.mp3
-EL MALO.mp3                     EL PERDEDOR.mp3
-ENSE¥AME A OLVIDAR.mp3          ERES MIA.mp3
-ESTRELLITAS Y DUENDES.mp3       HERMANITA.mp3
-HEROE FAVORITO.mp3              HILITO.mp3
-I AM SORRY.mp3                  INOCENTE.mp3
-LA BACHATA.mp3                  LA BODA.mp3
-LA CARCEL DEL DOLOR.mp3         LA CURITA.mp3
-LA GUERRA .mp3                  LA LLAVE DE MI CORAZON.mp3
-LA NI¥A.mp3                     LA TORMENTA.mp3
-LA ULTIMA NOCHE.mp3             LAGRIMAS.mp3
-LAO A LAO.mp3                   LLEVAME CONTIGO.mp3
-LLORAR.mp3                      LOS INFIELES.mp3
-ME VOY DE CASA.mp3              MI CORAZONCITO.mp3
-MI NI¥A CAMBIO.mp3              MI SANTA.mp3
-NO NO NO.mp3                    POR UN SEGUNDO.mp3
-PRINCESITA.mp3                  PROPUESTA INDECENTE.mp3
-QUE SE MUERAN.mp3               QUE TONTOS QUE LOCOS.mp3
-QUIEN TE CAMBIO.mp3             ROMEO Y JULIETA .mp3
-SOBERBIO.mp3                    SOBRESOSIS.mp3
-SOLO ME FALTAS TU.mp3           SOLO.mp3
-SOY HOMBRE.mp3                  SOY UN POBRE DIABLO.mp3
-SU VENENO.mp3                   SUSPIRAS DE AMOR.mp3
-TE INVITO A HACER EL AMOR.mp3   TODAVIA ME AMAS.mp3
-TU JUEGUITO.mp3                 TU SIN MI, YO SIN TI.mp3
-VALE LA PENA EL PLACER.mp3      YO QUISIERA AMARLA.mp3
-              74 archivos    299.800.467 bytes
+> [!NOTE]
+> 74 archivos    299.800.467 bytes
 
  Directorio de E:\MUSICA\03-BOHEMIA
 
