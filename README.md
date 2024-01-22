@@ -1,6 +1,6 @@
-# El volumen de la unidad E es MORENO-2
-## El número de serie del volumen es: 7665-F43B
-#### Directorio de E:\MUSICA\01-FECHAS ESPECIALES
+> [!IMPORTANT]
+> 16 archivos     14.881.011 bytes
+> 01-FECHAS ESPECIALES
 
 * CUMPLEAÑOS FELIZ.mp3
 * DE NI¥A A MUJER- JULIO JARAMILLO.mp3
@@ -19,8 +19,13 @@
 * TU CUMPLEA¥OS.mp3
 * VALLS - DANUBIO AZUL.mp3
 
-> [!IMPORTANT]
-> 16 archivos     14.881.011 bytes
+
+
+> [!NOTE]
+>
+
+> [!TIP]
+> 
 
  Directorio de E:\MUSICA\02-BACHATA
 
