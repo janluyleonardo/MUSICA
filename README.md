@@ -98,11 +98,11 @@
 > * VALE LA PENA EL PLACER.mp3      
 > * YO QUISIERA AMARLA.mp3
 > 
-> [!NOTE]
 > 74 archivos    299.800.467 bytes
 
 > [!IMPORTANT]
 > 03-BOHEMIA
+>
 > * ADORACION.mp3
 > * AMOR GITANO.mp3
 > * AUNQUE ME DUELA EL ALMA.mp3
@@ -162,29 +162,41 @@
 > * YO NO SE QUE HAN HECHO TUS OJOS.mp3
 >            
 > 57 archivos    290.604.188 bytes
-
- Directorio de E:\MUSICA\03-BOHEMIA\BALADA HABLADA POEMAS
-
-DESIDERATA.mp3             ES CUESTION DE PIEL.mp3
-NAILA.mp3                  PATRICK AMOR MIO.mp3
-PROMETIMOS NO LLORAR.mp3   TE HE QUERIDO TANTO.mp3
-               6 archivos      6.284.833 bytes
-
- Directorio de E:\MUSICA\03-BOHEMIA\BALADAS CONTEMPORANEAS
-
-COMO DECIRTE CUANTO TE AMO.mp3    CORAZON PARTIO.mp3
-CUANDO SE ACABA EL PLACER.mp3     MI HISTORIA ENTRE TUS DEDOS.mp3
-TABACO Y CHANEL.mp3               TRATAR DE ESTAR MEJOR.mp3
-USTED NO SABE.mp3                 
-               7 archivos      7.488.014 bytes
-
- Directorio de E:\MUSICA\03-BOHEMIA\BALADAS DE LOS 60
-
-DEJA DE LLORAR.mp3           LA CINTA ROSA.mp3
-LAS PUERTAS DEL OLVIDO.mp3   MELINA.mp3
-MENTIRIA.mp3                 PORQUE TE VAS.mp3
-TE QUIERO TE AMO.mp3         VETE CON EL.mp3
-VOLVERE.mp3                  
+>
+> 03-BOHEMIA\BALADA HABLADA POEMAS
+>
+> * DESIDERATA.mp3             
+> * ES CUESTION DE PIEL.mp3
+> * NAILA.mp3                  
+> * PATRICK AMOR MIO.mp3
+> * PROMETIMOS NO LLORAR.mp3   
+> * TE HE QUERIDO TANTO.mp3
+>
+>  6 archivos      6.284.833 bytes
+>
+> 03-BOHEMIA\BALADAS CONTEMPORANEAS
+> 
+> * COMO DECIRTE CUANTO TE AMO.mp3    
+> * CORAZON PARTIO.mp3
+> * CUANDO SE ACABA EL PLACER.mp3     
+> * MI HISTORIA ENTRE TUS DEDOS.mp3
+> * TABACO Y CHANEL.mp3               
+> * TRATAR DE ESTAR MEJOR.mp3
+> * USTED NO SABE.mp3     
+>            
+>  7 archivos      7.488.014 bytes
+> 
+> 03-BOHEMIA\BALADAS DE LOS 60
+> 
+> * DEJA DE LLORAR.mp3           
+> * LA CINTA ROSA.mp3
+> * LAS PUERTAS DEL OLVIDO.mp3   
+> * MELINA.mp3
+> * MENTIRIA.mp3                 
+> * PORQUE TE VAS.mp3
+> * TE QUIERO TE AMO.mp3         
+> * VETE CON EL.mp3
+> * VOLVERE.mp3                  
                9 archivos      7.888.769 bytes
 
  Directorio de E:\MUSICA\03-BOHEMIA\BALADAS DE LOS 60\BALADAS AMERICANAS
