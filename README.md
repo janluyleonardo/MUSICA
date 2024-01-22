@@ -1,5 +1,4 @@
 > [!IMPORTANT]
-> 16 archivos     14.881.011 bytes
 > 01-FECHAS ESPECIALES
 
 * CUMPLEAÑOS FELIZ.mp3
@@ -19,10 +18,8 @@
 * TU CUMPLEA¥OS.mp3
 * VALLS - DANUBIO AZUL.mp3
 
-
-
 > [!NOTE]
->
+> 16 archivos     14.881.011 bytes
 
 > [!TIP]
 > 
