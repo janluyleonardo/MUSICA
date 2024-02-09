@@ -1,0 +1,60 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 0E48-9979
+
+ Directorio de C:\Users\EQUIPO\Desktop\output\MONTAJE 2\RODOLFO AICARDI
+
+001-BOQUITA DE CARAMELO.mp3            002-LA CERVEZA.mp3
+003-ME VOY PA MACONDO.mp3              004-OCHO DIAS.mp3
+005-TABACO Y RON.mp3                   006-ASI EMPEZARON PAPA Y MAMA.mp3
+007-LA CONOCI UN DOMINGO.mp3           008-EL PAPELITO BLANCO.mp3
+009-OLVIDEMOS EL PASADO.mp3            010-DANIELA.mp3
+011-VAGABUNDO SOY.mp3                  012-LA COLEGIALA.mp3
+013-ADONAY.mp3                         014-EL PRESO.mp3
+015-NI CUERPO NI CORAZON.mp3           016-CARINITO.mp3
+017-ADIOS ADIOS CORAZON.mp3            018-LOS DOMINGOS.mp3
+019-FIESTA EN MI PUEBLO.mp3            020-PELAITA.mp3
+021-SIN CORAZON EN EL PECHO.mp3        022-FELIZ NOCHEBUENA.mp3
+023-OJITOS HECHICEROS.mp3              024-CANTARES DE NAVIDAD.mp3
+025-YO NO FUI.mp3                      026-CINTURITA DE JABON.mp3
+027-CHAN CON CHAN.mp3                  028-CUMBIA MARINERA.mp3
+029-EL MAESTRO.mp3                     030-LA MISMA VAINA.mp3
+031-CHABELA.mp3                        032-MUCHACHITA CELOSA.mp3
+033-ENTRE QUE SI Y QUE NO.mp3          034-CAROLA.mp3
+035-LA CUNADITA.mp3                    036-QUIERO QUE ME DES TU AMOR.mp3
+037-EL TIZON.mp3                       038-PERDIDO Y BORRACHO.mp3
+039-MI RICO CUMBION.mp3                040-LA SUEGRA.mp3
+041-DONDE ESTAS MARIANA.mp3            042-YA PARA QUE.mp3
+043-PENAS POR UNA AMOR.mp3             044-MANUELITO BARRIOS.mp3
+045-AGUA DE CU.mp3                     046-CASI CASI.mp3
+047-BOTELLITA DE RON.mp3               048-ENTONCES CUANDO.mp3
+049-LA BANDOLERA.mp3                   050-LA CINTA BLANCA.mp3
+051-MASCULINO Y FEMENINO.mp3           052-EL CANGREJITO ENAMORADO.mp3
+053-LOS CIEN ANOS DE MACONDO.mp3       054-FIESTA DE CUMPLEANOS.mp3
+055-LAS AMAPOLAS.mp3                   056-YA SE MARCHO.mp3
+057-POMPONIO.mp3                       058-SE LA LLEVO EL TREN.mp3
+059-EL LUNARCITO.mp3                   060-LORENZA.mp3
+061-EL ESCORPION.mp3                   062-LINDA MUCHACHITA.mp3
+063-DEJENME YA.mp3                     064-CARITA DE CIELO.mp3
+065-AMOR POR COMPUTADORA.mp3           066-LA BURRA Y LA CHIVA.mp3
+067-LINDA ROSA.mp3                     068-TORMENTOS.mp3
+069-MI CUMBION.mp3                     070-MIS ZAPATOS VIEJOS.mp3
+071-LA NEGRA CALIENTE.mp3              072-LOS ALGODONES.mp3
+073-LA BRUJA.mp3                       074-TE CASTIGO HACIENDOTE LLORAR.mp3
+075-QUE REGRESE.mp3                    076-EL PESCADOR TRISTE.mp3
+077-EL CAMINITO.mp3                    078-VOY CANTANDO.mp3
+079-ENAMORADO.mp3                      080-EL TELEFONO.mp3
+081-MI PRIMAVERA.mp3                   082-LOS PALMARES.mp3
+083-LA ENFERMERA.mp3                   084-NAVIDAD SIN MADRE.mp3
+085-DILE.mp3                           086-AQUEL DOMINGO.mp3
+087-CHISPIANDO CANDELA.mp3             088-COMPAE CHEMO.mp3
+089-CUESTEME LO QUE ME CUESTE.mp3      090-CUMBIA CERETEANA.mp3
+091-EL CASADO ARREPENTIDO.mp3          092-LA COPETONA.mp3
+093-LA COQUETA.mp3                     094-BRISA SALA.mp3
+095- LA PUYA GUAMALERA.mp3             096-LA NINA NORY.mp3
+097-LA REVANCHA.mp3                    098-LINDO CLAVELITO.mp3
+099-LOS NENES CON LOS NENES.mp3        100-MARIA ISABEL.mp3
+             100 archivos    120.369.844 bytes
+
+     Total de archivos en la lista:
+             100 archivos    120.369.844 bytes
+               0 dirs  16.194.457.600 bytes libres
